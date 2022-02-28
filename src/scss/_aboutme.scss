@@ -1,0 +1,27 @@
+@use "../assets/variables" as v;
+
+.AboutMe {
+  height: calc(100vh - 100px);
+  padding: 0 2rem 2rem 2rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .sub-intro {
+    color: v.$main-blue;
+  }
+  h1 {
+    color: v.$main-grey;
+    font-size: clamp(2rem, 8vw, 80px);
+  }
+  .role,
+  .description {
+    color: rgb(130, 141, 175);
+  }
+
+  button {
+    width: 250px;
+    padding: 0.5rem 1rem;
+  }
+}

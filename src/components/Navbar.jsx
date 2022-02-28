@@ -1,4 +1,3 @@
-import "../scss/_navbar.scss";
 import logo from "../assets/logo.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faClose } from "@fortawesome/free-solid-svg-icons";
