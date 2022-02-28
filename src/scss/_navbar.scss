@@ -1,0 +1,111 @@
+@use "../assets/variables" as v;
+
+.Navbar {
+  height: 100px;
+  padding: 0 20px 0 20px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  img {
+    width: 50px;
+    height: 50px;
+  }
+  .hamburger {
+    color: v.$main-blue;
+    font-size: 2.5rem;
+    cursor: pointer;
+  }
+
+  .expanded-menu {
+    display: none;
+    animation: spring 0.5s alternate;
+    transform-origin: right;
+
+    li {
+      list-style: none;
+      cursor: pointer;
+      color: v.$main-grey;
+
+      .menu-numbering {
+        padding-right: 0.25rem;
+        color: v.$main-blue;
+      }
+      .menu-resume {
+        color: v.$main-blue;
+        padding: 0.75rem 1rem;
+        border: solid v.$main-blue 1px;
+        border-radius: 5px;
+      }
+      .menu-resume:hover {
+        background-color: rgb(92, 225, 230, 0.2);
+      }
+    }
+    li:hover {
+      color: v.$main-blue;
+    }
+  }
+
+  .dropDown {
+    height: 100vh;
+    width: 50%;
+
+    position: absolute;
+    right: 0;
+    top: 0;
+
+    // When displayed, it will be set to flex
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+
+    background-color: rgb(17, 34, 64);
+    animation: spring 0.5s alternate;
+    transform-origin: right;
+
+    .close-dropDown {
+      cursor: pointer;
+      color: v.$main-blue;
+      font-size: 3rem;
+      position: absolute;
+      top: 25px;
+      right: 25px;
+    }
+    .expanded-menu {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 2rem;
+    }
+  }
+}
+
+@keyframes spring {
+  0% {
+    transform: scaleX(1);
+  }
+  80% {
+    transform: scaleX(1.1);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+
+@media (min-width: 800px) {
+  .Navbar {
+    .hamburger {
+      display: none;
+    }
+    .expanded-menu {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 2rem;
+    }
+    .dropDown {
+      display: none !important;
+    }
+  }
+}
