@@ -2,26 +2,40 @@
 
 .AboutMe {
   height: calc(100vh - 100px);
-  padding: 0 2rem 2rem 2rem;
+  padding: 0 clamp(2.5rem, 8vw, 6rem) clamp(2rem, 10vh, 6rem)
+    clamp(2.5rem, 10vw, 10rem);
 
   display: flex;
   flex-direction: column;
   justify-content: center;
+  gap: 2.5px;
 
   .sub-intro {
     color: v.$main-blue;
   }
   h1 {
     color: v.$main-grey;
-    font-size: clamp(2rem, 8vw, 80px);
+    font-size: clamp(25px, 8vw, 65px);
   }
   .role,
   .description {
     color: rgb(130, 141, 175);
   }
+  .description {
+    padding-bottom: 15px;
+    max-width: 550px;
+  }
 
   button {
+    border: solid 2px v.$main-blue;
+    border-radius: 5px;
+    color: v.$main-blue;
     width: 250px;
-    padding: 0.5rem 1rem;
+    padding: 1rem 3rem;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: rgb(92, 225, 230, 0.2);
   }
 }

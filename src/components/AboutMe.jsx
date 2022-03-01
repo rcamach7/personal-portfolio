@@ -6,10 +6,12 @@ function AboutMe() {
       <h1 className="role">I build things for the web</h1>
 
       <p className="description">
-        I’m a software engineer specializing in front end developing.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+        veniam, quis nostrud exercitation ullamco.
       </p>
 
-      <button>Check Out My Resume</button>
+      <button>Resume</button>
     </div>
   );
 }
