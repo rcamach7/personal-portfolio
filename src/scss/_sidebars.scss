@@ -1,0 +1,75 @@
+@use "../assets/variables" as v;
+
+.Sidebars {
+  display: none;
+
+  ul {
+    color: v.$text-grey;
+    list-style: none;
+
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+  }
+
+  .leftSide {
+    position: fixed;
+    bottom: 0;
+    left: 20px;
+
+    .icon {
+      transition: transform 0.5s;
+      font-size: 25px;
+    }
+    .icon:hover {
+      transform: scale(1.2);
+      color: v.$main-blue;
+      cursor: pointer;
+    }
+  }
+
+  .rightSide {
+    position: fixed;
+    bottom: 0;
+    right: 20px;
+
+    .email {
+      cursor: pointer;
+      font-size: 12px;
+      letter-spacing: 2px;
+      writing-mode: vertical-rl;
+
+      transition: transform 0.5s;
+    }
+    .email:hover {
+      color: v.$main-blue;
+      transform: scale(1.1);
+    }
+  }
+
+  .bar::after {
+    content: "";
+    display: block;
+    width: 1px;
+    height: 90px;
+    margin: 0px auto;
+    background-color: v.$text-grey;
+  }
+}
+
+@media (min-width: 600px) {
+  .Sidebars {
+    display: block;
+  }
+}
+
+@media (min-width: 950px) {
+  .Sidebars {
+    .leftSide {
+      left: 40px;
+    }
+    .rightSide {
+      right: 40px;
+    }
+  }
+}
