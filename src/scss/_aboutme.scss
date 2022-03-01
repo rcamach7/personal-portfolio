@@ -6,11 +6,21 @@
     clamp(2.5rem, 10vw, 10rem);
 
   .section-title {
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     color: v.$main-grey;
     .numbering {
       color: v.$main-blue;
     }
+  }
+  .section-title::after {
+    content: "";
+    display: inline-block;
+    position: relative;
+    top: -5px;
+    width: clamp(100px, 20vw, 500px);
+    height: 1px;
+    margin-left: 20px;
+    background-color: rgb(69, 75, 94);
   }
 
   .aboutme-main {
@@ -33,7 +43,7 @@
     .aboutme-information {
       max-width: 500px;
       .info {
-        color: rgb(130, 141, 175);
+        color: v.$text-grey;
         padding-bottom: 15px;
       }
     }
@@ -41,7 +51,7 @@
 
   .skills-title {
     padding-bottom: 10px;
-    color: rgb(130, 141, 175);
+    color: v.$text-grey;
     text-align: center;
   }
   .skills-container {
@@ -69,6 +79,6 @@
   p {
     font-size: 14px;
     margin-top: auto;
-    color: rgb(130, 141, 175);
+    color: v.$text-grey;
   }
 }
