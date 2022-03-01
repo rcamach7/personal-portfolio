@@ -1,16 +1,19 @@
 import "./scss/Portfolio.scss";
 import Navbar from "./components/Navbar";
+import Intro from "./components/Intro";
 import AboutMe from "./components/AboutMe";
 
 function Portfolio() {
   return (
-    <div className="Portfolio">
+    <main className="Portfolio">
       <header>
         <Navbar />
       </header>
 
+      <Intro />
+
       <AboutMe />
-    </div>
+    </main>
   );
 }
 
