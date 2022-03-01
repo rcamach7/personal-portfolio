@@ -1,0 +1,34 @@
+[
+  {
+    "skill" : "React",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/react_hdsoby.png"
+  },
+  {
+    "skill" : "Node Js",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101318/main-portfolio/tech-skills/node_lzpvq6.png"
+  },
+  {
+    "skill" : "Mongo DB",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101239/main-portfolio/tech-skills/mongodb_r1xhyn.png"
+  },
+  {
+    "skill" : "Git",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png"
+  },
+  {
+    "skill" : "Javascript",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/javascript_ecqpbs.png"
+  },
+  {
+    "skill" : "Java",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100628/main-portfolio/tech-skills/java_ilp3ec.png"
+  },
+  {
+    "skill" : "NPM",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/npm_xh0kkl.png"
+  },
+  {
+    "skill" : "Sass",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/sass_qncd58.png"
+  }
+]

@@ -1,4 +1,59 @@
 @use "../assets/variables" as v;
 
 .AboutMe {
+  background-color: v.$bk-blue;
+  padding: 0 clamp(2.5rem, 8vw, 6rem) clamp(2rem, 10vh, 6rem)
+    clamp(2.5rem, 10vw, 10rem);
+
+  .section-title {
+    color: v.$main-grey;
+    .numbering {
+      color: v.$main-blue;
+    }
+  }
+
+  .aboutme-information {
+    .info {
+      max-width: 550px;
+      color: rgb(130, 141, 175);
+      padding-bottom: 15px;
+    }
+    .skills-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+    }
+  }
+
+  .aboutme-picture {
+    .picture-container {
+      min-width: 200px;
+      min-height: 200px;
+
+      background-image: url("https://res.cloudinary.com/de2ymful4/image/upload/v1646101675/main-portfolio/mug_ygcejn.png");
+      background-position: center;
+      background-size: cover;
+    }
+  }
+}
+
+.SkillCard {
+  width: 90px;
+  height: 90px;
+
+  padding: 5px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  img {
+    width: 50px;
+    height: 50px;
+  }
+  p {
+    font-size: 14px;
+    margin-top: auto;
+    color: rgb(130, 141, 175);
+  }
 }
