@@ -1,19 +1,43 @@
-function AboutMe() {
+import skillData from "../assets/skills.json";
+
+export default function AboutMe() {
+  const skillCards = skillData.map((skillItem, i) => (
+    <SkillCard key={i} skill={skillItem} />
+  ));
+
   return (
-    <div className="AboutMe">
-      <p className="sub-intro">Hi, my name is</p>
-      <h1>Ricardo Camacho Mireles</h1>
-      <h1 className="role">I build things for the web</h1>
+    <section className="AboutMe" id="AboutMe">
+      <h2 className="section-title">
+        <span className="numbering">01.</span>About Me
+      </h2>
 
-      <p className="description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco.
-      </p>
+      <div className="aboutme-main">
+        <div className="aboutme-picture"></div>
 
-      <button>Resume</button>
-    </div>
+        <div className="aboutme-information">
+          <p className="info">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
+            odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.
+          </p>
+          <p className="info">
+            Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.
+            Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem
+            at dolor. Maecenas mattis.
+          </p>
+        </div>
+      </div>
+
+      <p className="skills-title">Strong skills in:</p>
+      <div className="skills-container">{skillCards}</div>
+    </section>
   );
 }
 
-export default AboutMe;
+function SkillCard(props) {
+  return (
+    <div className="SkillCard">
+      <img src={props.skill.img} alt="" />
+      <p>{props.skill.skill}</p>
+    </div>
+  );
+}
