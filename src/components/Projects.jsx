@@ -21,6 +21,29 @@ function Project(props) {
   return (
     <div className="Project">
       <img src={project.still} alt="" />
+
+      <h2 className="subheading project-title">{project.title}</h2>
+
+      <p>{project.description}</p>
+
+      <div className="outcome">
+        <h2 className="subheading">Outcome</h2>
+        <p>{project.outcome}</p>
+      </div>
+
+      <div className="technologies-container">
+        <h2 className="subheading">Technologies Utilized:</h2>
+        <ul>
+          {project.technologies.map((techItem, i) => (
+            <li key={i}>{techItem}</li>
+          ))}
+        </ul>
+      </div>
+
+      <div className="project-links">
+        <a href={`${project.source}`}>Source</a>
+        <a href={`${project.live}`}>Live Demo</a>
+      </div>
     </div>
   );
 }

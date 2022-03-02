@@ -30,20 +30,76 @@
 }
 
 .Project {
-  width: clamp(100%, 80vw, 100vw);
-  padding: 5px;
-  height: 500px;
+  width: clamp(100%, 80vw, 1000px);
+  padding: 10px;
+  height: min-content;
 
   color: v.$text-grey;
   background-color: v.$bk-grey;
 
   display: flex;
   flex-direction: column;
-  align-items: center;
+  gap: 10px;
 
   img {
     width: clamp(225px, 100%, 350px);
     height: auto;
     border-radius: 5px;
+    align-self: center;
+  }
+  .project-title {
+    color: v.$main-grey;
+    font-size: v.$sub-heading;
+    align-self: center;
+  }
+  .subheading {
+    color: v.$main-grey;
+  }
+  p {
+    font-size: 19px;
+  }
+
+  .outcome {
+  }
+  .technologies-container {
+    ul {
+      list-style: none;
+
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+
+      li {
+        font-size: 19px;
+        min-width: 100px;
+      }
+      li::before {
+        content: "\2022";
+        padding-right: 5px;
+        color: v.$main-blue;
+        font-size: 20px;
+      }
+    }
+  }
+
+  .project-links {
+    padding-top: 15px;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    a {
+      text-align: center;
+      width: 200px;
+      border: solid 2px v.$main-blue;
+      border-radius: 5px;
+      color: v.$main-blue;
+      padding: 10px 25px;
+      cursor: pointer;
+    }
+    a:hover {
+      background-color: rgb(92, 225, 230, 0.2);
+    }
   }
 }
