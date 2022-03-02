@@ -1,0 +1,49 @@
+@use "../assets/variables" as v;
+
+.Projects {
+  background-color: v.$bk-blue;
+  padding: 0 clamp(1.75rem, 8vw, 6rem) clamp(2rem, 10vh, 6rem)
+    clamp(1.75rem, 10vw, 10rem);
+
+  .section-title {
+    font-size: v.$heading;
+    padding-bottom: 15px;
+    color: v.$main-grey;
+    .numbering {
+      font-size: v.$heading;
+      color: v.$main-blue;
+    }
+  }
+  .section-title::after {
+    content: "";
+    display: inline-block;
+    position: relative;
+    top: -5px;
+    width: clamp(100px, 20vw, 500px);
+    height: 1px;
+    margin-left: 20px;
+    background-color: rgb(69, 75, 94);
+  }
+
+  .projects-container {
+  }
+}
+
+.Project {
+  width: clamp(100%, 80vw, 100vw);
+  padding: 5px;
+  height: 500px;
+
+  color: v.$text-grey;
+  background-color: v.$bk-grey;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  img {
+    width: clamp(225px, 100%, 350px);
+    height: auto;
+    border-radius: 5px;
+  }
+}

@@ -6,9 +6,11 @@
     clamp(2.5rem, 10vw, 10rem);
 
   .section-title {
+    font-size: v.$heading;
     padding-bottom: 15px;
     color: v.$main-grey;
     .numbering {
+      font-size: v.$heading;
       color: v.$main-blue;
     }
   }
@@ -17,7 +19,7 @@
     display: inline-block;
     position: relative;
     top: -5px;
-    width: clamp(100px, 20vw, 500px);
+    width: clamp(60px, 20vw, 500px);
     height: 1px;
     margin-left: 20px;
     background-color: rgb(69, 75, 94);
