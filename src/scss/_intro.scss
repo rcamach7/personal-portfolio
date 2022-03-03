@@ -4,6 +4,7 @@
   height: calc(100vh - 100px);
   padding: 0 clamp(2.5rem, 8vw, 6rem) clamp(2rem, 10vh, 6rem)
     clamp(2.5rem, 10vw, 10rem);
+  background-color: v.$bk-main;
 
   display: flex;
   flex-direction: column;

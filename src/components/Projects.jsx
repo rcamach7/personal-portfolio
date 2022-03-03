@@ -19,7 +19,7 @@ function Project(props) {
   const { project } = props;
 
   return (
-    <div className="Project">
+    <section className="Project">
       <img src={project.still} alt="" />
 
       <h2 className="project-title">{project.title}</h2>
@@ -27,12 +27,12 @@ function Project(props) {
       <p>{project.description}</p>
 
       <div className="outcome">
-        <h2 className="subheading">Outcome:</h2>
+        <h2 className="subheading">Outcome</h2>
         <p>{project.outcome}</p>
       </div>
 
       <div className="technologies-container">
-        <h2 className="subheading">Technologies Utilized:</h2>
+        <h2 className="subheading">Technologies Utilized</h2>
         <ul>
           {project.technologies.map((techItem, i) => (
             <li key={i}>{techItem}</li>
@@ -44,6 +44,6 @@ function Project(props) {
         <a href={`${project.source}`}>Source</a>
         <a href={`${project.live}`}>Live Demo</a>
       </div>
-    </div>
+    </section>
   );
 }

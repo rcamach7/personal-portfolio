@@ -4,6 +4,7 @@
 @import "./aboutme";
 @import "./sidebars";
 @import "./projects";
+@import "./contact";
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&family=Roboto+Mono:wght@300;400;700&display=swap");
 
 * {
@@ -12,7 +13,6 @@
   margin: 0;
   padding: 0;
   font-size: 16px;
-  cursor: default;
 }
 a:visited,
 a {
@@ -20,7 +20,10 @@ a {
   text-decoration: none;
 }
 
-.Portfolio {
-  height: 100vh;
-  background-color: v.$bk-main;
+p,
+h1,
+h2,
+h3,
+h4 {
+  cursor: default;
 }

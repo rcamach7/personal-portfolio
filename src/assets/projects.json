@@ -4,9 +4,29 @@
     "source": "https://github.com/rcamach7/facebook-clone",
     "live": "https://rcamach7.github.io/facebook-clone/",
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1646177656/main-portfolio/projects/facebookDemo_luz8lw.gif",
-    "still":"https://res.cloudinary.com/de2ymful4/image/upload/v1646177507/main-portfolio/projects/facebookStill_py73ux.png",
-    "technologies": ["dolor", "adaff", "faefea", "eafaefa", "faefa", "fafaf"],
+    "still":"https://res.cloudinary.com/de2ymful4/image/upload/v1646275912/main-portfolio/projects/fbStill_n8vqjb.png",
+    "technologies": ["React", "Firebase", "Javascript", "SASS", "Cloudnary"],
     "description":"An interactive, full stack, facebook clone built primarily using React. Allows user to make a post with text and/or pictures, like posts or comments, and stores this information in a real time database. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "outcome": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+  },
+   {
+    "title": "Royalty Exotics E-Commerce",
+    "source": "https://github.com/rcamach7/shopping-cart",
+    "live": "https://rcamach7.github.io/shopping-cart/",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1646177656/main-portfolio/projects/facebookDemo_luz8lw.gif",
+    "still":"https://res.cloudinary.com/de2ymful4/image/upload/v1646177569/main-portfolio/projects/shoppingStill_ifoaa2.png",
+    "technologies": ["React", "Javascript","SASS","NPM", "Cloudnary" ],
+    "description":"Replicates an exotic car dealership, showcasing current inventory for sale with shopping cart capabilities. Utilizes JSON data to populate available inventory, and allows dynamic interaction with cart management and product sorting.",
+    "outcome": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+  },
+  {
+    "title": "CV Creator",
+    "source": "https://github.com/rcamach7/cv-creator",
+    "live": "http://rcamach7.github.io/cv-creator/",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1646177637/main-portfolio/projects/cvDemo_uepr74.gif",
+    "still":"https://res.cloudinary.com/de2ymful4/image/upload/v1646177510/main-portfolio/projects/cvStill_cxsczt.png",
+    "technologies": ["React", "Javascript","CSS","HTML"],
+    "description":"A web application that allows you to generate a CV with input fields. Utilizes React, HTML, CSS, and multiple libraries to give user dynamic experience.",
     "outcome": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
   }
 ]
