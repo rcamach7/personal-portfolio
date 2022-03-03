@@ -28,6 +28,18 @@ h4 {
   cursor: default;
 }
 
+// Reveals sections as you scroll into them as opposed to displaying them right away.
+.reveal {
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: 1.5s all ease;
+}
+.reveal.active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;

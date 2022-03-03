@@ -13,7 +13,7 @@ export default function Contact() {
         <span className="numbering">03.</span> What's Next?
       </h2>
 
-      <div className="contact-me">
+      <div className="contact-me reveal">
         <h1 className="contact-me">Get In Touch!</h1>
         <p className="status">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do

@@ -19,7 +19,7 @@ function Project(props) {
   const { project } = props;
 
   return (
-    <section className="Project">
+    <section className="Project reveal">
       <img src={project.still} alt="" />
 
       <h2 className="project-title">{project.title}</h2>

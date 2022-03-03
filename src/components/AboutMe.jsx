@@ -11,7 +11,7 @@ export default function AboutMe() {
         <span className="numbering">01.</span>About Me
       </h2>
 
-      <div className="aboutme-container">
+      <div className="aboutme-container reveal">
         <div className="aboutme-main">
           <div className="aboutme-picture"></div>
 
