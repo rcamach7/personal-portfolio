@@ -67,21 +67,3 @@
     animation-delay: 2.5s;
   }
 }
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-@keyframes dropDown {
-  from {
-    top: -100px;
-  }
-  to {
-    top: 0px;
-  }
-}
