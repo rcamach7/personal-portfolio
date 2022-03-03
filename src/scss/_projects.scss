@@ -39,6 +39,8 @@
 
   color: v.$text-secondary;
   background-color: v.$bk-secondary;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
   display: flex;
   flex-direction: column;
@@ -47,7 +49,7 @@
   img {
     width: clamp(225px, 100%, 350px);
     height: auto;
-    border-radius: 5px;
+    border-radius: 5px 5px 0 0;
     align-self: center;
   }
   .project-title {

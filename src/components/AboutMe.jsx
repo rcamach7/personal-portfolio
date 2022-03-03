@@ -11,24 +11,26 @@ export default function AboutMe() {
         <span className="numbering">01.</span>About Me
       </h2>
 
-      <div className="aboutme-main">
-        <div className="aboutme-picture"></div>
+      <div className="aboutme-container">
+        <div className="aboutme-main">
+          <div className="aboutme-picture"></div>
 
-        <div className="aboutme-information">
-          <p className="info">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec
-            odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.
-          </p>
-          <p className="info">
-            Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.
-            Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem
-            at dolor. Maecenas mattis.
-          </p>
+          <div className="aboutme-information">
+            <p className="info">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+              nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.
+            </p>
+            <p className="info">
+              Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.
+              Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque
+              sem at dolor. Maecenas mattis.
+            </p>
+          </div>
         </div>
-      </div>
 
-      <p className="skills-title">Strong skills in:</p>
-      <div className="skills-container">{skillCards}</div>
+        <p className="skills-title">Strong skills in:</p>
+        <div className="skills-container">{skillCards}</div>
+      </div>
     </section>
   );
 }

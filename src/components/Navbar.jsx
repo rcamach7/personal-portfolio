@@ -15,8 +15,20 @@ export default function Navbar() {
     }
   };
 
+  // Hides navbar whenever scrolling down, and displays it when scrolling up.
+  let prevScrollpos = window.pageYOffset;
+  window.onscroll = function () {
+    let currentScrollPos = window.pageYOffset;
+    if (prevScrollpos > currentScrollPos) {
+      document.getElementById("Navbar").style.top = "0";
+    } else {
+      document.getElementById("Navbar").style.top = "-100px";
+    }
+    prevScrollpos = currentScrollPos;
+  };
+
   return (
-    <nav className="Navbar">
+    <nav className="Navbar" id="Navbar">
       <img src={logo} alt="" />
       <FontAwesomeIcon
         onClick={toggleDropDown}
