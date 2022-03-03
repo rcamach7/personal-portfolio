@@ -26,6 +26,9 @@
   }
 
   .projects-container {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
   }
 }
 
@@ -48,12 +51,15 @@
     align-self: center;
   }
   .project-title {
+    text-align: center;
     color: v.$text-main;
     font-size: v.$sub-heading;
     align-self: center;
   }
   .subheading {
+    text-align: center;
     color: v.$text-main;
+    padding-bottom: 5px;
   }
   p {
     font-size: 19px;
@@ -66,6 +72,7 @@
       list-style: none;
 
       display: flex;
+      justify-content: center;
       flex-wrap: wrap;
       gap: 20px;
 

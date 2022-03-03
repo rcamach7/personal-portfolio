@@ -8,7 +8,7 @@ import {
 
 export default function Contact() {
   return (
-    <div className="Contact" id="Contact">
+    <section className="Contact" id="Contact">
       <h2 className="section-title">
         <span className="numbering">03.</span> What's Next?
       </h2>
@@ -16,20 +16,34 @@ export default function Contact() {
       <div className="contact-me">
         <h1 className="contact-me">Get In Touch!</h1>
         <p className="status">
-          I am currently looking for opportunities as a full time front end
-          developer. I am also always looking for opportunities to contribute or
-          team up on projects. Excepteur sint occaecat cupidatat non proident,
-          sunt in culpa qui officia deserunt mollit anim id est laborum.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris.Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris.
         </p>
-        <button>Say Hello</button>
+        <address>
+          <a href="mailto:ricmireles7@gmail.com">Say Hello</a>
+        </address>
       </div>
 
       <div className="contact-links">
-        <FontAwesomeIcon icon={faGithub} className="icon" />
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://github.com/rcamach7"
+        >
+          <FontAwesomeIcon icon={faGithub} className="icon" />
+        </a>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://dev.to/rcamach7"
+        >
+          <FontAwesomeIcon icon={faDev} className="icon" />
+        </a>
         <FontAwesomeIcon icon={faLinkedin} className="icon" />
         <FontAwesomeIcon icon={faFacebook} className="icon" />
-        <FontAwesomeIcon icon={faDev} className="icon" />
       </div>
-    </div>
+    </section>
   );
 }

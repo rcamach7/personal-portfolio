@@ -2,8 +2,8 @@
 
 .Contact {
   height: 100vh;
+  padding: 10px;
 
-  padding: 0 clamp(2.5rem, 8vw, 6rem) 25px clamp(2.5rem, 10vw, 10rem);
   background-color: v.$bk-main;
   color: v.$text-main;
 
@@ -12,9 +12,7 @@
   align-items: center;
 
   .section-title {
-    padding-top: 25px;
     font-size: v.$heading;
-    padding-bottom: 15px;
     color: v.$text-main;
     text-align: center;
     .numbering {
@@ -22,9 +20,18 @@
       color: v.$theme-main;
     }
   }
+  .section-title::after {
+    content: "";
+    display: inline-block;
+    position: relative;
+    top: -5px;
+    width: clamp(60px, 20vw, 500px);
+    height: 1px;
+    margin-left: 20px;
+    background-color: rgb(69, 75, 94);
+  }
 
   .contact-me {
-    // height: 100%;
     padding-top: 5vh;
 
     display: flex;
@@ -41,8 +48,7 @@
       text-align: center;
       max-width: 550px;
     }
-    button {
-      // margin-top: 30px;
+    address {
       max-width: 175px;
       border: solid 2px v.$theme-main;
       border-radius: 5px;
@@ -51,7 +57,7 @@
       background-color: transparent;
       cursor: pointer;
     }
-    button:hover {
+    address:hover {
       background-color: rgb(92, 225, 230, 0.2);
     }
   }
