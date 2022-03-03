@@ -34,7 +34,13 @@ export default function Navbar() {
         >
           <span className="menu-numbering">01.</span>About
         </li>
-        <li>
+        <li
+          onClick={() =>
+            document
+              .getElementById("Projects")
+              .scrollIntoView({ behavior: "smooth" })
+          }
+        >
           <span className="menu-numbering">02.</span>Projects
         </li>
         <li>
@@ -63,7 +69,14 @@ export default function Navbar() {
           >
             <span className="menu-numbering">01.</span>About
           </li>
-          <li>
+          <li
+            onClick={() => {
+              toggleDropDown();
+              document
+                .getElementById("Projects")
+                .scrollIntoView({ behavior: "smooth" });
+            }}
+          >
             <span className="menu-numbering">02.</span>Projects
           </li>
           <li>

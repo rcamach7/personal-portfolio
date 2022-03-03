@@ -1,0 +1,105 @@
+@use "../assets/variables" as v;
+
+.Projects {
+  background-color: v.$bk-main;
+  padding: 0 clamp(1.75rem, 8vw, 6rem) clamp(2rem, 10vh, 6rem)
+    clamp(1.75rem, 10vw, 10rem);
+
+  .section-title {
+    font-size: v.$heading;
+    padding-bottom: 15px;
+    color: v.$text-main;
+    .numbering {
+      font-size: v.$heading;
+      color: v.$bk-main;
+    }
+  }
+  .section-title::after {
+    content: "";
+    display: inline-block;
+    position: relative;
+    top: -5px;
+    width: clamp(100px, 20vw, 500px);
+    height: 1px;
+    margin-left: 20px;
+    background-color: rgb(69, 75, 94);
+  }
+
+  .projects-container {
+  }
+}
+
+.Project {
+  width: clamp(100%, 80vw, 1000px);
+  padding: 10px;
+  height: min-content;
+
+  color: v.$text-secondary;
+  background-color: v.$bk-secondary;
+
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+  img {
+    width: clamp(225px, 100%, 350px);
+    height: auto;
+    border-radius: 5px;
+    align-self: center;
+  }
+  .project-title {
+    color: v.$text-main;
+    font-size: v.$sub-heading;
+    align-self: center;
+  }
+  .subheading {
+    color: v.$text-main;
+  }
+  p {
+    font-size: 19px;
+  }
+
+  .outcome {
+  }
+  .technologies-container {
+    ul {
+      list-style: none;
+
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+
+      li {
+        font-size: 19px;
+        min-width: 100px;
+      }
+      li::before {
+        content: "\2022";
+        padding-right: 5px;
+        color: v.$theme-main;
+        font-size: 20px;
+      }
+    }
+  }
+
+  .project-links {
+    padding-top: 15px;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    a {
+      text-align: center;
+      width: 200px;
+      border: solid 2px v.$theme-main;
+      border-radius: 5px;
+      color: v.$theme-main;
+      padding: 10px 25px;
+      cursor: pointer;
+    }
+    a:hover {
+      background-color: rgb(92, 225, 230, 0.2);
+    }
+  }
+}

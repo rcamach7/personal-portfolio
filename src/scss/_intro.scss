@@ -11,10 +11,10 @@
   gap: 2.5px;
 
   .sub-intro {
-    color: v.$main-blue;
+    color: v.$theme-main;
   }
   h1 {
-    color: v.$main-grey;
+    color: v.$text-main;
     font-size: clamp(25px, 8vw, 65px);
   }
   .role,
@@ -27,10 +27,10 @@
   }
 
   button {
-    border: solid 2px v.$main-blue;
+    max-width: 175px;
+    border: solid 2px v.$theme-main;
     border-radius: 5px;
-    color: v.$main-blue;
-    width: 250px;
+    color: v.$theme-main;
     padding: 1rem 3rem;
     background-color: transparent;
     cursor: pointer;

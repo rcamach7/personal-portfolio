@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Facebook Clone",
+    "source": "https://github.com/rcamach7/facebook-clone",
+    "live": "https://rcamach7.github.io/facebook-clone/",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1646177656/main-portfolio/projects/facebookDemo_luz8lw.gif",
+    "still":"https://res.cloudinary.com/de2ymful4/image/upload/v1646177507/main-portfolio/projects/facebookStill_py73ux.png",
+    "technologies": ["dolor", "adaff", "faefea", "eafaefa", "faefa", "fafaf"],
+    "description":"An interactive, full stack, facebook clone built primarily using React. Allows user to make a post with text and/or pictures, like posts or comments, and stores this information in a real time database. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "outcome": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+  }
+]
