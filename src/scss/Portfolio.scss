@@ -4,6 +4,7 @@
 @import "./aboutme";
 @import "./sidebars";
 @import "./projects";
+@import "./contact";
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&family=Roboto+Mono:wght@300;400;700&display=swap");
 
 * {
@@ -18,9 +19,4 @@ a:visited,
 a {
   color: inherit;
   text-decoration: none;
-}
-
-.Portfolio {
-  height: 100vh;
-  background-color: v.$bk-main;
 }

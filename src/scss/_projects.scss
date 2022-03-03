@@ -7,11 +7,11 @@
 
   .section-title {
     font-size: v.$heading;
-    padding-bottom: 15px;
     color: v.$text-main;
+    padding-bottom: 15px;
     .numbering {
       font-size: v.$heading;
-      color: v.$bk-main;
+      color: v.$theme-main;
     }
   }
   .section-title::after {
