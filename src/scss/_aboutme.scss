@@ -1,9 +1,15 @@
 @use "../assets/variables" as v;
 
 .AboutMe {
+  min-height: 100vh;
   background-color: v.$bk-main;
   padding: 0 clamp(2.5rem, 8vw, 6rem) clamp(2rem, 10vh, 6rem)
     clamp(2.5rem, 10vw, 10rem);
+
+  display: flex;
+  flex-direction: column;
+  // align-items: center;
+  // justify-content: center;
 
   .section-title {
     font-size: v.$heading;
@@ -25,42 +31,49 @@
     background-color: rgb(69, 75, 94);
   }
 
-  .aboutme-main {
-    padding-bottom: 25px;
+  .aboutme-container {
+    flex: 1;
 
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
-    gap: 10px;
-    .aboutme-picture {
-      width: clamp(225px, 70vw, 275px);
-      // min-height: 225px;
-      height: clamp(225px, 70vw, 275px);
+    .aboutme-main {
+      padding-bottom: 25px;
 
-      background-image: url("https://res.cloudinary.com/de2ymful4/image/upload/v1646101675/main-portfolio/mug_ygcejn.png");
-      background-position: center;
-      background-size: cover;
-    }
-    .aboutme-information {
-      max-width: 500px;
-      .info {
-        color: v.$text-secondary;
-        padding-bottom: 15px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 10px;
+      .aboutme-picture {
+        width: clamp(225px, 70vw, 275px);
+        // min-height: 225px;
+        height: clamp(225px, 70vw, 275px);
+
+        background-image: url("https://res.cloudinary.com/de2ymful4/image/upload/v1646101675/main-portfolio/mug_ygcejn.png");
+        background-position: center;
+        background-size: cover;
+      }
+      .aboutme-information {
+        max-width: 500px;
+        .info {
+          color: v.$text-secondary;
+          padding-bottom: 15px;
+        }
       }
     }
-  }
 
-  .skills-title {
-    padding-bottom: 10px;
-    color: v.$text-secondary;
-    text-align: center;
-  }
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 5px;
+    .skills-title {
+      padding-bottom: 10px;
+      color: v.$text-secondary;
+      text-align: center;
+    }
+    .skills-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 5px;
+    }
   }
 }
 
