@@ -12,6 +12,7 @@
   margin: 0;
   padding: 0;
   font-size: 16px;
+  cursor: default;
 }
 a:visited,
 a {
@@ -21,5 +22,5 @@ a {
 
 .Portfolio {
   height: 100vh;
-  background-color: v.$bk-blue;
+  background-color: v.$bk-main;
 }

@@ -4,7 +4,7 @@
   display: none;
 
   ul {
-    color: v.$text-grey;
+    color: v.$theme-main;
     list-style: none;
 
     display: flex;
@@ -23,7 +23,7 @@
     }
     .icon:hover {
       transform: scale(1.2);
-      color: v.$main-blue;
+      color: v.$theme-main;
       cursor: pointer;
     }
   }
@@ -42,7 +42,7 @@
       transition: transform 0.5s;
     }
     .email:hover {
-      color: v.$main-blue;
+      color: v.$theme-main;
       transform: scale(1.1);
     }
   }
@@ -53,7 +53,7 @@
     width: 1px;
     height: 90px;
     margin: 0px auto;
-    background-color: v.$text-grey;
+    background-color: v.$theme-main;
   }
 }
 

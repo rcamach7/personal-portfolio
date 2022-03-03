@@ -1,17 +1,17 @@
 @use "../assets/variables" as v;
 
 .Projects {
-  background-color: v.$bk-blue;
+  background-color: v.$bk-main;
   padding: 0 clamp(1.75rem, 8vw, 6rem) clamp(2rem, 10vh, 6rem)
     clamp(1.75rem, 10vw, 10rem);
 
   .section-title {
     font-size: v.$heading;
     padding-bottom: 15px;
-    color: v.$main-grey;
+    color: v.$text-main;
     .numbering {
       font-size: v.$heading;
-      color: v.$main-blue;
+      color: v.$bk-main;
     }
   }
   .section-title::after {
@@ -34,8 +34,8 @@
   padding: 10px;
   height: min-content;
 
-  color: v.$text-grey;
-  background-color: v.$bk-grey;
+  color: v.$text-secondary;
+  background-color: v.$bk-secondary;
 
   display: flex;
   flex-direction: column;
@@ -48,12 +48,12 @@
     align-self: center;
   }
   .project-title {
-    color: v.$main-grey;
+    color: v.$text-main;
     font-size: v.$sub-heading;
     align-self: center;
   }
   .subheading {
-    color: v.$main-grey;
+    color: v.$text-main;
   }
   p {
     font-size: 19px;
@@ -76,7 +76,7 @@
       li::before {
         content: "\2022";
         padding-right: 5px;
-        color: v.$main-blue;
+        color: v.$theme-main;
         font-size: 20px;
       }
     }
@@ -92,9 +92,9 @@
     a {
       text-align: center;
       width: 200px;
-      border: solid 2px v.$main-blue;
+      border: solid 2px v.$theme-main;
       border-radius: 5px;
-      color: v.$main-blue;
+      color: v.$theme-main;
       padding: 10px 25px;
       cursor: pointer;
     }

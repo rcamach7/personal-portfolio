@@ -1,10 +1,15 @@
-$bk-blue: rgb(10, 25, 48);
-$bk-grey: rgb(37, 42, 47);
+// Background Colors
+$bk-main: rgb(10, 25, 48);
+$bk-secondary: rgb(17, 34, 64);
 
-$main-blue: rgb(92, 225, 230);
-$main-grey: rgb(196, 206, 238);
+// Theme Colors
+// $theme-main: rgb(92, 225, 230);
+$theme-main: rgb(243, 198, 16);
 
-$text-grey: rgb(130, 141, 175);
+// Text Colors
+$text-main: rgb(196, 206, 238);
+$text-secondary: rgb(130, 141, 175);
 
+// Font Sizes
 $heading: 25px;
 $sub-heading: 22.5px;

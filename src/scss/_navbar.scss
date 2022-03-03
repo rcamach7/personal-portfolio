@@ -12,7 +12,7 @@
     height: 50px;
   }
   .hamburger {
-    color: v.$main-blue;
+    color: v.$theme-main;
     font-size: 2.5rem;
     cursor: pointer;
   }
@@ -25,16 +25,16 @@
     li {
       list-style: none;
       cursor: pointer;
-      color: v.$main-grey;
+      color: v.$text-main;
 
       .menu-numbering {
         padding-right: 0.25rem;
-        color: v.$main-blue;
+        color: v.$theme-main;
       }
       .menu-resume {
-        color: v.$main-blue;
+        color: v.$theme-main;
         padding: 0.75rem 1rem;
-        border: solid v.$main-blue 1px;
+        border: solid v.$theme-main 1px;
         border-radius: 5px;
       }
       .menu-resume:hover {
@@ -42,7 +42,7 @@
       }
     }
     li:hover {
-      color: v.$main-blue;
+      color: v.$theme-main;
     }
   }
 
@@ -65,7 +65,7 @@
 
     .close-dropDown {
       cursor: pointer;
-      color: v.$main-blue;
+      color: v.$theme-main;
       font-size: 3rem;
       position: absolute;
       top: 25px;

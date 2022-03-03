@@ -22,12 +22,12 @@ function Project(props) {
     <div className="Project">
       <img src={project.still} alt="" />
 
-      <h2 className="subheading project-title">{project.title}</h2>
+      <h2 className="project-title">{project.title}</h2>
 
       <p>{project.description}</p>
 
       <div className="outcome">
-        <h2 className="subheading">Outcome</h2>
+        <h2 className="subheading">Outcome:</h2>
         <p>{project.outcome}</p>
       </div>
 
