@@ -39,4 +39,49 @@
   button:hover {
     background-color: rgb(92, 225, 230, 0.2);
   }
+
+  // Animation properties for first page load
+  .sub-intro,
+  .name,
+  .role,
+  .description,
+  button {
+    position: relative;
+    opacity: 0;
+  }
+  .sub-intro {
+    animation: fadeIn 1s forwards, dropDown 1s forwards;
+  }
+  .name {
+    animation: fadeIn 1s forwards;
+    animation-delay: 1s;
+  }
+
+  .role {
+    animation: fadeIn 1s forwards;
+    animation-delay: 1.5s;
+  }
+  .description,
+  button {
+    animation: fadeIn 1s forwards;
+    animation-delay: 2.5s;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes dropDown {
+  from {
+    top: -100px;
+  }
+  to {
+    top: 0px;
+  }
 }
