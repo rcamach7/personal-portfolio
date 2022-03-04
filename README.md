@@ -1,7 +1,7 @@
 # Ricardo Camacho Mireles
 
 Welcome to my current portfolio page showcasing a little bit about myself, along with some of the work I have completed.
-[Visit my portfolio!](https://rcamach7.github.io/personal-portfolio/)
+[Visit my portfolio!](https://ricardo-camacho.dev)
 
 ### Built Using:
 
