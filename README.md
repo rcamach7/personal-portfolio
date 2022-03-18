@@ -10,7 +10,7 @@
 
 </br>
 
-<div >
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcamach7&hide=stars&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -85,6 +85,10 @@
 
 </br>
 
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcamach7&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Check out some of my keystone projects below!</h2>
+</div>
+
+<h2 align="center">Check out some of my keystone projects below!</h2>
