@@ -16,7 +16,7 @@
 
 </div>
 
-<h2>Technology Skills</h2>
+<h2 align="center">Technology Skills</h2>
 
 > Front-end Technologies
 
