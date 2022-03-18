@@ -10,9 +10,10 @@
 
 </br>
 
-<div style="display: flex; flex-direction: row; justify-content: center; gap: 5px;">
- <img class="img" style="height: 175px" src="https://github-readme-stats.vercel.app/api?username=rcamach7&hide=stars&count_private=true&show_icons=true&theme=apprentice" />
- <img class="img" style="height: 175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcamach7&layout=compact&theme=apprentice" />
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcamach7&hide=stars&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <h2 align="center">Technology Skills</h2>
@@ -83,5 +84,11 @@
 </table>
 
 </br>
+
+<div align="center">
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcamach7&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) -->
+
+</div>
 
 <h3 align="center">Check out some of my keystone projects below!</h3>
