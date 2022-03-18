@@ -6,15 +6,13 @@
 
 <p>I am a full stack web developer specializing in the MERN stack. I am always looking to collaborate and contribute to projects, so please reach out and connect with me!</p>
 
-<p>I am currently working on creating RESTful API's that handle authentication via JSON web tokens and learning best practices for securing API's, such as validation and sanitation of data received from clients, and protecting user data.</p>
+<p>I am currently working on creating RESTful API's, more particularly, learning best practices for securing API's, such as data validation and sanitation, and protecting user data by hashing passwords and generating JWT tokens.</p>
 
 </br>
 
 <div >
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcamach7&hide=stars&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcamach7&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -65,3 +63,28 @@
     </td>    
   </tr>
 </table>
+
+> Tools
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646273705/main-portfolio/tech-skills/firebase_igurdi.png" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/npm_xh0kkl.png" width="48" height="48" alt="NPM" />
+      <br>NPM
+    </td>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png" width="48" height="48" alt="MongoDB" />
+      <br>Git
+    </td>  
+  </tr>
+</table>
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcamach7&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2>Check out some of my keystone projects below!</h2>
