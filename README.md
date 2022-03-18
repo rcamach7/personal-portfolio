@@ -1,29 +1,67 @@
-# Ricardo Camacho Mireles
+<h1 align="center">Hi I'm Ricardo 👋</h1>
 
-Welcome to my current portfolio page showcasing a little bit about myself, along with some of the work I have completed.
-[Visit my portfolio!](https://ricardo-camacho.dev)
+[![Linkedin Badge](https://img.shields.io/badge/-ricardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/jlim/)
+[![Website Badge](https://img.shields.io/badge/-ricardo.camacho.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ricardo-camacho.dev)](https://ricardo-camacho.dev)
+[![Gmail Badge](https://img.shields.io/badge/-ricmireles7-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ricmireles7@gmail.com@gmail.com)](mailto:ricmireles7@gmail.com)
 
-### Built Using:
+<p>I am a full stack web developer specializing in the MERN stack. I am always looking to collaborate and contribute to projects, so please reach out and connect with me!</p>
 
-- [React Framework](https://reactjs.org/)
-- [Font Awesome Icons](https://fontawesome.com/)
-- Javascript
-- HTML
-- CSS
-- SASS
+<p>I am currently working on creating RESTful API's that handle authentication via JSON web tokens and learning best practices for securing API's, such as validation and sanitation of data received from clients, and protecting user data.</p>
 
-#### Local Installation & Running
+</br>
 
-```bash
-git clone https://github.com/rcamach7/personal-portfolio.git
-cd personal-portfolio
-npm install
-npm run start
-```
+<div >
 
-## To-do's
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcamach7&hide=stars&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
-- Add transition effect when section or page is first loaded.
-- Once width is sufficient for extra images, display some project images on templates such as desktop and mobile.
-- Possibility of showcasing project component as a carousal
-- add animation to the rest of the sections
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcamach7&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<h2>Technology Skills</h2>
+
+> Front-end Technologies
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/javascript_ecqpbs.png" width="48" height="48" alt="Javascript" />
+      <br>Javascript
+    </td>  
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/react_hdsoby.png" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/sass_qncd58.png" width="48" height="48" alt="SASS" />
+      <br>SASS
+    </td>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/html_qpxonu.png" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+  </tr>
+</table>
+
+> Backend Technologies
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646101318/main-portfolio/tech-skills/node_lzpvq6.png" width="48" height="48" alt="React" />
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png" width="48" height="48" alt="HTML" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646101239/main-portfolio/tech-skills/mongodb_r1xhyn.png" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646100628/main-portfolio/tech-skills/java_ilp3ec.png" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>    
+  </tr>
+</table>
