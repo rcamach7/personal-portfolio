@@ -18,7 +18,7 @@
 
 <h2 align="center">Technology Skills</h2>
 
-> Front-end Technologies
+> **Front-end Technologies**
 
 <table>
   <tr>
@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-> Backend Technologies
+> **Backend Technologies**
 
 <table>
   <tr>
@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-> Tools
+> **Tools**
 
 <table>
   <tr>
@@ -91,4 +91,4 @@
 
 </div>
 
-<h2 align="center">Check out some of my keystone projects below!</h2>
+<h3 align="center">Check out some of my keystone projects below!</h3>
