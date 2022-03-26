@@ -4,15 +4,17 @@
 [![Website Badge](https://img.shields.io/badge/-ricardo.camacho.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ricardo-camacho.dev)](https://ricardo-camacho.dev)
 [![Gmail Badge](https://img.shields.io/badge/-ricmireles7-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ricmireles7@gmail.com@gmail.com)](mailto:ricmireles7@gmail.com)
 
-<p>I am a full stack web developer specializing in the MERN stack. I am always looking to collaborate and contribute to projects, so please reach out and connect with me!</p>
-
-<p>I am currently working on creating RESTful API's, more particularly, learning best practices for securing API's, such as data validation and sanitation, and protecting user data by hashing passwords and generating JWT tokens.</p>
+<p>I am a full stack web developer specializing in the MERN (Mongo, Express, React and NodeJS) stack. Consistently re-enforcing my current skills by building personal projects and eager to learn new ones to expand my skillset. I am always looking to collaborate and contribute to projects, so please reach out and connect with me!</p>
 
 </br>
 
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcamach7&hide=stars&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+<a href="https://github.com/rcamach7/github-readme-activity-graph"><img alt="Ricardo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rcamach7&bg_color=262626&color=DCDCDC&line=FEFEAE&point=DCDCDC&hide_border=true" /></a>
+</P>
 
 </div>
 
@@ -85,10 +87,6 @@
 
 </br>
 
-<div align="center">
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcamach7&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) -->
-
-</div>
+<!-- TODO: Center my technologies squares - even if I need to pull them out the table and into some other format. -->
 
 <h3 align="center">Check out some of my keystone projects below!</h3>
