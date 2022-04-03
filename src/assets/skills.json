@@ -4,8 +4,20 @@
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/react_hdsoby.png"
   },
   {
+    "skill": "NodeJS",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101318/main-portfolio/tech-skills/node_lzpvq6.png"
+  },
+  {
+    "skill": "ExpressJS",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png"
+  },
+  {
     "skill":"Firebase",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646273705/main-portfolio/tech-skills/firebase_igurdi.png"
+  },
+  {
+    "skill" : "Sass",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/sass_qncd58.png"
   },
   {
     "skill" : "Javascript",
@@ -18,13 +30,5 @@
   {
     "skill" : "Git",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png"
-  },
-  {
-    "skill" : "NPM",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/npm_xh0kkl.png"
-  },
-  {
-    "skill" : "Sass",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/sass_qncd58.png"
   }
 ]
