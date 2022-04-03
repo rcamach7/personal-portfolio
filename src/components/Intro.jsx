@@ -6,9 +6,12 @@ function Intro() {
       <h1 className="role">I build things for the web.</h1>
 
       <p className="description">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco.
+        I am proficient with many of the modern javascript web technologies,
+        have deployed working software, and believe{" "}
+        <strong>
+          I will contribute value to any development team I am a part of from
+          day one.
+        </strong>
       </p>
 
       <button>Resume</button>
