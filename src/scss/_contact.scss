@@ -85,10 +85,12 @@
       border: solid 2px v.$bk-main;
       border-radius: 5px;
       color: v.$text-main;
-      font-size: 14px;
       background-color: transparent;
       padding: 2px 5px;
       cursor: pointer;
+      a {
+        font-size: 14px;
+      }
     }
     .default-mailer:hover {
       background-color: rgb(92, 225, 230, 0.2);

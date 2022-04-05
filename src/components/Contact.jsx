@@ -11,19 +11,17 @@ import axios from "axios";
 
 export default function Contact() {
   const [message, setMessage] = useState({
-    name: "awdwa",
-    email: "waddwa@gmail.com",
-    message: "wwaddw",
+    name: "",
+    email: "",
+    message: "",
   });
 
   const handleFormSubmission = (e) => {
     e.preventDefault();
-    axios
-      .post("https://formspree.io/f/xyyodvoe", message)
-      .then(() => {
-        console.log("Message sent");
-      })
-      .catch((err) => console.log(err.response));
+    axios.post("https://formspree.io/f/xyyodvoe", message).then(() => {
+      setMessage({ name: "", email: "", message: "" });
+      alert("Message sent");
+    });
   };
 
   return (
@@ -44,13 +42,21 @@ export default function Contact() {
           className="inputField"
           type="text"
           placeholder="Your name"
-          name="name"
+          id="name"
+          value={message.name}
+          onChange={(e) =>
+            setMessage({ ...message, [e.target.id]: e.target.value })
+          }
         />
         <input
           className="inputField"
           type="email"
           placeholder="Your email"
-          name="email"
+          id="email"
+          onChange={(e) =>
+            setMessage({ ...message, [e.target.id]: e.target.value })
+          }
+          value={message.email}
           required
         />
         <textarea
@@ -58,7 +64,11 @@ export default function Contact() {
           cols="30"
           rows="5"
           placeholder="Your message"
-          name="message"
+          id="message"
+          onChange={(e) =>
+            setMessage({ ...message, [e.target.id]: e.target.value })
+          }
+          value={message.message}
           required
         />
 
