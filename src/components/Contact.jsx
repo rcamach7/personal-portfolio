@@ -6,24 +6,51 @@ import {
   faDev,
 } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
+import { useState } from "react";
+import axios from "axios";
 
 export default function Contact() {
+  const [message, setMessage] = useState({
+    name: "awdwa",
+    email: "waddwa@gmail.com",
+    message: "wwaddw",
+  });
+
+  const handleFormSubmission = (e) => {
+    e.preventDefault();
+    axios
+      .post("https://formspree.io/f/xyyodvoe", message)
+      .then(() => {
+        console.log("Message sent");
+      })
+      .catch((err) => console.log(err.response));
+  };
+
   return (
     <section className="Contact" id="Contact">
       <h2 className="section-title">
         <span className="numbering">03.</span> What's Next?
       </h2>
 
-      <form className="contact-form reveal">
+      <form
+        className="contact-form reveal"
+        onSubmit={(e) => handleFormSubmission(e)}
+      >
         <div className="formTitle">
           <FontAwesomeIcon icon={faEnvelope} className="icon" />
           <p>Get in touch!</p>
         </div>
-        <input className="inputField" type="text" placeholder="Your name" />
+        <input
+          className="inputField"
+          type="text"
+          placeholder="Your name"
+          name="name"
+        />
         <input
           className="inputField"
           type="email"
           placeholder="Your email"
+          name="email"
           required
         />
         <textarea
@@ -31,6 +58,7 @@ export default function Contact() {
           cols="30"
           rows="5"
           placeholder="Your message"
+          name="message"
           required
         />
 
