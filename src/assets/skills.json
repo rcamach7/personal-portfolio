@@ -8,6 +8,10 @@
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101318/main-portfolio/tech-skills/node_lzpvq6.png"
   },
   {
+    "skill": "MongoDB",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101239/main-portfolio/tech-skills/mongodb_r1xhyn.png"
+  },
+  {
     "skill": "ExpressJS",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png"
   },
@@ -26,9 +30,5 @@
   {
     "skill" : "Java",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100628/main-portfolio/tech-skills/java_ilp3ec.png"
-  },
-  {
-    "skill" : "Git",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png"
   }
 ]
