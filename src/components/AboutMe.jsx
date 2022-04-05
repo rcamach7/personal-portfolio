@@ -17,13 +17,14 @@ export default function AboutMe() {
 
           <div className="aboutme-information">
             <p className="info">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.
+              Hi! I have a profound love for problem solving, which is at the
+              root of why I enjoy programming so much! I thrive in environments
+              that challenge me, and allow me to grow and develop my skills.
             </p>
             <p className="info">
-              Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.
-              Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque
-              sem at dolor. Maecenas mattis.
+              I have been learning web development for over a year now, and have
+              built and deployed multiple web applications using both front end
+              and back end technologies.
             </p>
           </div>
         </div>

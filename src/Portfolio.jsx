@@ -14,7 +14,6 @@ function Portfolio() {
 
   function reveal() {
     const reveals = document.querySelectorAll(".reveal");
-    console.log(reveals);
 
     for (var i = 0; i < reveals.length; i++) {
       let windowHeight = window.innerHeight;
