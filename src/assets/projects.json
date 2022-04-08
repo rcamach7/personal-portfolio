@@ -1,11 +1,29 @@
 [
   {
     "title": "Messenger Web App",
-    "source": "https://github.com/rcamach7/cv-creator",
-    "live": "http://rcamach7.github.io/cv-creator/",
-    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1646177637/main-portfolio/projects/cvDemo_uepr74.gif",
-    "still":"https://res.cloudinary.com/de2ymful4/image/upload/v1646177510/main-portfolio/projects/cvStill_cxsczt.png",
-    "technologies": ["React", "Javascript","CSS","HTML"],
+    "source": "https://github.com/rcamach7/messenger",
+    "live": "https://github.com/rcamach7/messenger",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1649449397/main-portfolio/projects/chat_row1m8.png",
+    "still":"https://res.cloudinary.com/de2ymful4/image/upload/v1649449397/main-portfolio/projects/chat_row1m8.png",
+    "technologies": ["React", "NodeJS","MongoDB","SocketIO", "ExpressJS", "PassportJS"],
     "bulletPoints": ["Allows users to chat with friends over a real time connection by using web sockets.","User interface built with React, styled with SCSS, and designed with a mobile first approach, making it responsive to all viewports.", "API was created using Node and Express, which sanitizes and validates any data or request received from our front-end.", "User authentication and security implemented with PassportJS and JWT Tokens, which were also used to protect routes against un-authenticated users."]
+  },
+  {
+    "title": "Facebook Clone",
+    "source": "https://github.com/rcamach7/facebook-clone",
+    "live": "https://rcamach7.github.io/facebook-clone/",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1646177656/main-portfolio/projects/facebookDemo_luz8lw.gif",
+    "still":"https://res.cloudinary.com/de2ymful4/image/upload/v1646275912/main-portfolio/projects/fbStill_n8vqjb.png",
+    "technologies": ["React", "Firebase", "Javascript", "SASS"],
+    "bulletPoints": ["Allows users to make a post with text and/or pictures, and ability to like posts or comments.", "User interface built with React. Made fully responsive with media breakpoints and CSS sizing functions.", "Firebase used for user creation and authentication, along with storing user data in a NoSQL database."]
+  },
+  {
+      "title": "Royalty Exotics E-Commerce",
+      "source": "https://github.com/rcamach7/shopping-cart",
+      "live": "https://rcamach7.github.io/shopping-cart/",
+      "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1646177656/main-portfolio/projects/facebookDemo_luz8lw.gif",
+      "still":"https://res.cloudinary.com/de2ymful4/image/upload/v1646177569/main-portfolio/projects/shoppingStill_ifoaa2.png",
+      "technologies": ["React", "Javascript","SASS","NPM"],
+      "bulletPoints":["Replicates an exotic car dealership, showcasing inventory for sale with shopping cart capabilities.", "Populates inventory with a JSON file, and allows users to filter inventory to their liking."]
   }
 ]

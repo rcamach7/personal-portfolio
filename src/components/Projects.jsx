@@ -31,7 +31,7 @@ function Project(props) {
       </ul>
 
       <div className="technologies-container">
-        <h2 className="subheading">Technologies Utilized</h2>
+        <h2 className="subheading">Technologies Stack</h2>
         <ul>
           {project.technologies.map((techItem, i) => (
             <li key={i}>

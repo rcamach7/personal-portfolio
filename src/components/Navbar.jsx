@@ -65,7 +65,17 @@ export default function Navbar() {
           <span className="menu-numbering">03.</span>Contact
         </li>
         <li>
-          <span className="menu-resume">Resume</span>
+          <span
+            className="menu-resume"
+            onClick={() =>
+              window.open(
+                "https://drive.google.com/file/d/1CM48Wya0Jg1NFqnEhj2MS1EDNttiUYhK/view?usp=sharing",
+                "_blank"
+              )
+            }
+          >
+            Resume
+          </span>
         </li>
       </ul>
 
@@ -108,7 +118,17 @@ export default function Navbar() {
             <span className="menu-numbering">03.</span>Contact
           </li>
           <li>
-            <span className="menu-resume">Resume</span>
+            <span
+              className="menu-resume"
+              onClick={() =>
+                window.open(
+                  "https://drive.google.com/file/d/1CM48Wya0Jg1NFqnEhj2MS1EDNttiUYhK/view?usp=sharing",
+                  "_blank"
+                )
+              }
+            >
+              Resume
+            </span>
           </li>
         </ul>
       </div>

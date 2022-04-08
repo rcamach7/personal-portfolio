@@ -14,7 +14,16 @@ function Intro() {
         </strong>
       </p>
 
-      <button>Resume</button>
+      <button
+        onClick={() =>
+          window.open(
+            "https://drive.google.com/file/d/1CM48Wya0Jg1NFqnEhj2MS1EDNttiUYhK/view?usp=sharing",
+            "_blank"
+          )
+        }
+      >
+        Resume
+      </button>
     </section>
   );
 }
