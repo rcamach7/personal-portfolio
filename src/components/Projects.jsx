@@ -24,18 +24,22 @@ function Project(props) {
 
       <h2 className="project-title">{project.title}</h2>
 
-      <p>{project.description}</p>
-
-      <div className="outcome">
-        <h2 className="subheading">Outcome</h2>
-        <p>{project.outcome}</p>
-      </div>
+      <ul className="projectBulletPoints">
+        {project.bulletPoints.map((point, i) => {
+          return <li key={i}>{point}</li>;
+        })}
+      </ul>
 
       <div className="technologies-container">
         <h2 className="subheading">Technologies Utilized</h2>
         <ul>
           {project.technologies.map((techItem, i) => (
-            <li key={i}>{techItem}</li>
+            <li key={i}>
+              {techItem}
+              <span className="techPipe">
+                {i + 1 === project.technologies.length ? null : "|"}
+              </span>
+            </li>
           ))}
         </ul>
       </div>

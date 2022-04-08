@@ -67,7 +67,14 @@
     font-size: 19px;
   }
 
-  .outcome {
+  .projectBulletPoints {
+    list-style: none;
+    li::before {
+      content: "\2022";
+      padding-right: 5px;
+      color: v.$theme-main;
+      font-size: 20px;
+    }
   }
   .technologies-container {
     ul {
@@ -76,17 +83,12 @@
       display: flex;
       justify-content: center;
       flex-wrap: wrap;
-      gap: 20px;
-
       li {
         font-size: 19px;
-        min-width: 100px;
-      }
-      li::before {
-        content: "\2022";
-        padding-right: 5px;
-        color: v.$theme-main;
-        font-size: 20px;
+        .techPipe {
+          padding: 0 5px 0 5px;
+          color: v.$theme-main;
+        }
       }
     }
   }
