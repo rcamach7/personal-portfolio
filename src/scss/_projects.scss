@@ -68,7 +68,15 @@
   }
 
   .projectBulletPoints {
+
     list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    li {
+      width: clamp(290px, 80vw, 680px);
+      padding: 0 5px 0 5px;
+    }
     li::before {
       content: "\2022";
       padding-right: 5px;
