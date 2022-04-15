@@ -1,6 +1,6 @@
 [
   {
-    "skill" : "React",
+    "skill": "React",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/react_hdsoby.png"
   },
   {
@@ -16,19 +16,19 @@
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png"
   },
   {
-    "skill":"Firebase",
+    "skill": "Firebase",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646273705/main-portfolio/tech-skills/firebase_igurdi.png"
   },
   {
-    "skill" : "Sass",
+    "skill": "Sass",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/sass_qncd58.png"
   },
   {
-    "skill" : "Javascript",
+    "skill": "Javascript",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/javascript_ecqpbs.png"
   },
   {
-    "skill" : "Java",
+    "skill": "Java",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100628/main-portfolio/tech-skills/java_ilp3ec.png"
   }
 ]
