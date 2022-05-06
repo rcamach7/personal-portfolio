@@ -2,8 +2,7 @@
 
 .Contact {
   min-height: 100vh;
-  padding: 0 clamp(2.5rem, 8vw, 6rem) 10px
-    clamp(2.5rem, 10vw, 10rem);
+  padding: 0 clamp(2.5rem, 8vw, 6rem) 10px clamp(2.5rem, 10vw, 10rem);
 
   background-color: v.$bk-main;
   color: v.$text-main;
@@ -38,8 +37,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 10px;
-    .formTitle{ 
+    gap: 18px;
+    .formTitle {
       width: clamp(300px, 50vw, 800px);
       text-align: center;
 
@@ -65,7 +64,7 @@
       resize: none;
 
       background-color: v.$bk-secondary;
-      color:white;
+      color: white;
     }
     .inputField::placeholder {
       color: v.$text-main;
@@ -81,7 +80,7 @@
     .submit-btn:hover {
       background-color: rgb(92, 225, 230, 0.2);
     }
-    .default-mailer{
+    .default-mailer {
       border: solid 2px v.$bk-main;
       border-radius: 5px;
       color: v.$text-main;

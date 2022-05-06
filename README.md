@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/-ricardo.camacho.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ricardo-camacho.dev)](https://ricardo-camacho.dev)
 [![Gmail Badge](https://img.shields.io/badge/-ricmireles7-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ricmireles7@gmail.com@gmail.com)](mailto:ricmireles7@gmail.com)
 
-<p>I am a full stack web developer specializing in the MERN (Mongo, Express, React and NodeJS) stack. Consistently re-enforcing my current skills by building personal projects and eager to learn new ones to expand my skillset. I am always looking to collaborate and contribute to projects, so please reach out and connect with me!</p>
+<p>I am a full stack software developer specializing in the MERN stack (Mongo, Express, React and NodeJS), but also proficient in Java and related technologies! If you have a project I can contribute to, or just want to reach out and say hi, please do so by reaching out to my linked socials above!</p>
 
 </br>
 
