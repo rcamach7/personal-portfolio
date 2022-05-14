@@ -23,9 +23,10 @@
 > **Front-end Technologies**
 
 <p align="center">
-  <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/js-anim_pxxk0j.gif" width="70" height="70" alt="Javascript" />
+  <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png" width="60" height="60" alt="Javascript" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif" width="70" height="70" alt="React" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648515099/main-portfolio/animated-logos/sass-animated_lhind3.gif" width="60" height="60" alt="SASS" />
+    <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/js-anim_pxxk0j.gif" width="70" height="70" alt="Javascript" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/html-anim_pel2zj.gif" width="70" height="70" alt="HTML" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/css-anim_cwgnx2.gif" width="70" height="70" alt="CSS" />
 </p>

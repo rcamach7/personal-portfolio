@@ -4,6 +4,10 @@
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/react_hdsoby.png"
   },
   {
+    "skill": "Typescript",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png"
+  },
+  {
     "skill": "NodeJS",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101318/main-portfolio/tech-skills/node_lzpvq6.png"
   },
