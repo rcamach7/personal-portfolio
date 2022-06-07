@@ -6,11 +6,10 @@ function Intro() {
       <h1 className="role">I build things for the web.</h1>
 
       <p className="description">
-        I am a full stack javascript web developer specializing in the MERN
-        stack.{" "}
         <strong>
-          I feel confident I can contribute value to any development team I am a
-          part of from day one!
+          I am a highly motivated full stack developer that thrives in
+          environments that challenge me and allow me to grow and develop my
+          skills!
         </strong>
       </p>
 

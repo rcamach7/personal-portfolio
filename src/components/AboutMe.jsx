@@ -18,8 +18,9 @@ export default function AboutMe() {
           <div className="aboutme-information">
             <p className="info">
               Hi! I have a profound love for problem solving, which is at the
-              root of why I enjoy programming so much! I thrive in environments
-              that challenge me, and allow me to grow and develop my skills.
+              root of why I enjoy programming so much! I find a lot of enjoyment
+              in challenging myself to work through tough problems and
+              situations.
             </p>
             <p className="info">
               I have been learning web development for over a year now, and have

@@ -1,6 +1,26 @@
 [
   {
-    "title": "Messenger Web App",
+    "title": "Crypto Exchange",
+    "source": "https://github.com/rcamach7/crypto-exchange",
+    "live": "https://rcamach7.github.io/crypto-exchange/#/",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1654634336/main-portfolio/projects/crypto-exchange_jzc8uv.png",
+    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1654634336/main-portfolio/projects/crypto-exchange_jzc8uv.png",
+    "technologies": [
+      "React",
+      "Typescript",
+      "NodeJS",
+      "MongoDB",
+      "MUI Components"
+    ],
+    "bulletPoints": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore"
+    ]
+  },
+  {
+    "title": "Instant Messaging App",
     "source": "https://github.com/rcamach7/messenger",
     "live": "https://rcamach7.github.io/messenger/#/messenger",
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1649988013/main-portfolio/projects/messenger_kohrka.png",
@@ -31,18 +51,6 @@
       "Allows users to make a post with text and/or pictures, and ability to like posts or comments.",
       "User interface built with React. Made fully responsive with media breakpoints and CSS sizing functions.",
       "Firebase used for user creation and authentication, along with storing user data in a NoSQL database."
-    ]
-  },
-  {
-    "title": "Royalty Exotics E-Commerce",
-    "source": "https://github.com/rcamach7/shopping-cart",
-    "live": "https://rcamach7.github.io/shopping-cart/",
-    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1646177656/main-portfolio/projects/facebookDemo_luz8lw.gif",
-    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1646177569/main-portfolio/projects/shoppingStill_ifoaa2.png",
-    "technologies": ["React", "Javascript", "SASS", "NPM"],
-    "bulletPoints": [
-      "Replicates an exotic car dealership, showcasing inventory for sale with shopping cart capabilities.",
-      "Populates inventory with a JSON file, and allows users to filter inventory to their liking."
     ]
   }
 ]
