@@ -23,9 +23,11 @@ export default function AboutMe() {
               situations.
             </p>
             <p className="info">
-              I have been learning web development for over a year now, and have
-              built and deployed multiple web applications using both front-end
-              and back-end technologies.
+              I believe anything can be achieved through hard work.
+            </p>
+            <p className="info">
+              I have built and deployed multiple web applications using both
+              front end and back end technologies, some of which listed below.
             </p>
           </div>
         </div>
