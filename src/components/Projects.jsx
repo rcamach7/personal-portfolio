@@ -15,12 +15,19 @@ export default function Projects() {
   );
 }
 
-function Project(props) {
-  const { project } = props;
-
+function Project({ project }) {
   return (
     <section className="Project reveal">
-      <img src={project.still} alt="" />
+      <div className="imageContainer">
+        <div className="gif" style={{ backgroundImage: `url(${project.gif})` }}>
+          <div
+            className="topImage"
+            style={{ backgroundImage: `url(${project.still})` }}
+          />
+        </div>
+      </div>
+
+      {/* <img src={project.still} alt="" /> */}
 
       <h2 className="project-title">{project.title}</h2>
 
@@ -31,13 +38,17 @@ function Project(props) {
       </ul>
 
       <div className="technologies-container">
-        <h2 className="subheading">Technologies Stack</h2>
+        <h2 className="subheading">Technology Stack</h2>
         <ul>
           {project.technologies.map((techItem, i) => (
             <li key={i}>
-              {techItem}
+              <img
+                className="techImage"
+                src={techItem.link}
+                alt={techItem.name}
+              />
               <span className="techPipe">
-                {i + 1 === project.technologies.length ? null : "|"}
+                {i + 1 === project.technologies.length ? null : ""}
               </span>
             </li>
           ))}

@@ -6,17 +6,36 @@
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159161/main-portfolio/projects/crypto_demo_qlqb7o.gif",
     "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655150813/main-portfolio/projects/crypto_still_d4dsjm.png",
     "technologies": [
-      "React",
-      "Typescript",
-      "NodeJS",
-      "MongoDB",
-      "MUI Components"
+      {
+        "name": "Typescript",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png"
+      },
+      {
+        "name": "React",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
+      },
+      {
+        "name": "NodeJS",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/node-anim_hppmtb.gif"
+      },
+      {
+        "name": "ExpressJS",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png"
+      },
+      {
+        "name": "MongoDB",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101239/main-portfolio/tech-skills/mongodb_r1xhyn.png"
+      },
+      {
+        "name": "Mongoose",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1655170119/main-portfolio/tech-skills/mongoose_mdbxkq.png"
+      }
     ],
     "bulletPoints": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore"
+      "Users can view, purchase and sell crypto coins at real-time market prices. They mau also view their total investment performances, or a breakdown of their individual coin investment(s). When browsing cryptos, they can filter and sort the data displayed to their liking.",
+      "UI built with Typescript + React. Utilized MUI Components, styled components, and SCSS for a responsive UX.",
+      "Back end server built with Node, Express, and MongoDB, using a 3rd party API to obtain real-time crypto prices.",
+      "Implemented user authentication, data validation/sanitation on client and server, protected routes, custom React hooks, lifecycle hooks, error handling on API calls, and much more."
     ]
   },
   {
@@ -26,18 +45,26 @@
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655167412/main-portfolio/projects/instantMessenger_demo_m5cvzk.gif",
     "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159961/main-portfolio/projects/messenger_still_rrlsye.png",
     "technologies": [
-      "React",
-      "NodeJS",
-      "MongoDB",
-      "SocketIO",
-      "ExpressJS",
-      "PassportJS"
+      {
+        "name": "React",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
+      },
+      {
+        "name": "SocketIO",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159498/main-portfolio/tech-skills/socketio_jkkj1u.png"
+      },
+      {
+        "name": "Javascript",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/js-anim_pxxk0j.gif"
+      },
+      {
+        "name": "SASS",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648515099/main-portfolio/animated-logos/sass-animated_lhind3.gif"
+      }
     ],
     "bulletPoints": [
-      "Allows users to chat with friends over a real time connection by using web sockets.",
-      "User interface built with React, styled with SCSS, and designed with a mobile first approach, making it responsive to all viewports.",
-      "API was created using Node and Express, which sanitizes and validates any data or request received from our front-end.",
-      "User authentication and security implemented with PassportJS and JWT Tokens, which were also used to protect routes against un-authenticated users."
+      "Real-time messaging established by creating web socket connections with my social media api server, enabling instant communication.",
+      "User authentication and security implemented with JWT Tokens, which were also used to protect routes against un-authenticated users. Custom form validation and sanitation also implemented before processing requests."
     ]
   },
   {
@@ -46,11 +73,62 @@
     "live": "https://rcamach7.github.io/facebook-clone/",
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655167109/main-portfolio/projects/facebook_demo_ijou3l.gif",
     "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655162356/main-portfolio/projects/facebook_still_hupupa.png",
-    "technologies": ["React", "Firebase", "Javascript", "SASS"],
+    "technologies": [
+      {
+        "name": "React",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
+      },
+      {
+        "name": "Javascript",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/js-anim_pxxk0j.gif"
+      },
+      {
+        "name": "SASS",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648515099/main-portfolio/animated-logos/sass-animated_lhind3.gif"
+      },
+      {
+        "name": "HTML",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/html-anim_pel2zj.gif"
+      }
+    ],
     "bulletPoints": [
-      "Allows users to make a post with text and/or pictures, and ability to like posts or comments.",
-      "User interface built with React. Made fully responsive with media breakpoints and CSS sizing functions.",
-      "Firebase used for user creation and authentication, along with storing user data in a NoSQL database."
+      "Utilizes react lifecycle methods, react hooks for state management, and custom hooks to serve specific application needs.",
+      "Routing implemented with protected routes against un-authenticated users. Data validation and sanitation also performed client side before interacting with backend API."
+    ]
+  },
+  {
+    "title": "Social Media API",
+    "source": "https://github.com/rcamach7/social-media-api",
+    "live": "https://fb-messenger-api.herokuapp.com",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655168192/main-portfolio/projects/socialMediaApi_still_e5ygtc.png",
+    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655168192/main-portfolio/projects/socialMediaApi_still_e5ygtc.png",
+    "technologies": [
+      {
+        "name": "Javascript",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/js-anim_pxxk0j.gif"
+      },
+      {
+        "name": "NodeJS",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/node-anim_hppmtb.gif"
+      },
+      {
+        "name": "ExpressJS",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png"
+      },
+      {
+        "name": "MongoDB",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101239/main-portfolio/tech-skills/mongodb_r1xhyn.png"
+      },
+      {
+        "name": "Mongoose",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1655170119/main-portfolio/tech-skills/mongoose_mdbxkq.png"
+      }
+    ],
+    "bulletPoints": [
+      "A RESTful API that serves both of my keystone web applications: Instant Messenger and Facebook Clone",
+      "Users maintain same information across both applications, allowing them to sign in with the same credentials, and maintain their friends across both platforms.",
+      "Creates socket connections with users in Messenger app to notify users of new messages, giving them instant messaging capabilities.",
+      "RESTful API that performs CRUD operations on the following endpoints; users, posts, messages, and friends."
     ]
   }
 ]
