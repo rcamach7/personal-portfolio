@@ -1,10 +1,10 @@
-<h1 align="center">Hi I'm Ricardo 👋</h1>
+<h1 align="center">Hi, I'm Ricardo 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ricardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/jlim/)
 [![Website Badge](https://img.shields.io/badge/-ricardo.camacho.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ricardo-camacho.dev)](https://ricardo-camacho.dev)
 [![Gmail Badge](https://img.shields.io/badge/-ricmireles7-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ricmireles7@gmail.com@gmail.com)](mailto:ricmireles7@gmail.com)
 
-<p>I am a full stack software developer specializing in the MERN stack (Mongo, Express, React and NodeJS), but also proficient in Java and related technologies! If you have a project I can contribute to, or just want to reach out and say hi, please do so by reaching out to my linked socials above!</p>
+<p align="center">I have a profound love for problem solving, which is at the root of why I enjoy programming so much! I find a lot of enjoyment in challenging myself in becoming a better skilled developer by building applications.</p>
 
 </br>
 
@@ -46,6 +46,9 @@
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646273705/main-portfolio/tech-skills/firebase_igurdi.png" width="70" height="70" alt="Firebase" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/npm_xh0kkl.png" width="70" height="70" alt="NPM" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png" width="70" height="70" alt="MongoDB" />
+  <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1655232059/main-portfolio/tech-skills/mui_p9jh58.png" width="70" height="70" alt="MUI" />
+  <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1655159498/main-portfolio/tech-skills/socketio_jkkj1u.png" width="70" height="70" alt="SocketIO" />
+  <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1655170119/main-portfolio/tech-skills/mongoose_mdbxkq.png" width="70" height="70" alt="Mongoose" />
 </p>
 
 </br>

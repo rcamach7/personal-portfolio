@@ -20,16 +20,24 @@
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png"
   },
   {
-    "skill": "Firebase",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646273705/main-portfolio/tech-skills/firebase_igurdi.png"
+    "skill": "MUI",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1655232059/main-portfolio/tech-skills/mui_p9jh58.png"
+  },
+  {
+    "skill": "SocketIO",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159498/main-portfolio/tech-skills/socketio_jkkj1u.png"
   },
   {
     "skill": "Sass",
     "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/sass_qncd58.png"
   },
   {
-    "skill": "Javascript",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/javascript_ecqpbs.png"
+    "skill": "Firebase",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646273705/main-portfolio/tech-skills/firebase_igurdi.png"
+  },
+  {
+    "skill": "Git",
+    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png"
   },
   {
     "skill": "Java",
