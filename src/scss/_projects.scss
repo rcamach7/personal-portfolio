@@ -46,11 +46,37 @@
   flex-direction: column;
   gap: 10px;
 
-  img {
-    width: clamp(280px, 100%, 400px);
-    height: auto;
-    border-radius: 5px 5px 0 0;
-    align-self: center;
+  // img {
+  //   width: clamp(280px, 100%, 400px);
+  //   height: auto;
+  //   border-radius: 5px 5px 0 0;
+  //   align-self: center;
+  // }
+  .imageContainer {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    .gif {
+      width: clamp(300px, 100%, 500px);
+      height: clamp(200px, 90vh, 275px);
+
+      position: relative;
+      background-size: cover;
+      background-position: center;
+      .topImage {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        background-position: center;
+      }
+      .topImage:hover {
+        opacity: 0;
+      }
+    }
   }
   .project-title {
     text-align: center;

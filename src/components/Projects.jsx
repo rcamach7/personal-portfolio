@@ -18,7 +18,16 @@ export default function Projects() {
 function Project({ project }) {
   return (
     <section className="Project reveal">
-      <img src={project.still} alt="" />
+      <div className="imageContainer">
+        <div className="gif" style={{ backgroundImage: `url(${project.gif})` }}>
+          <div
+            className="topImage"
+            style={{ backgroundImage: `url(${project.still})` }}
+          />
+        </div>
+      </div>
+
+      {/* <img src={project.still} alt="" /> */}
 
       <h2 className="project-title">{project.title}</h2>
 
