@@ -3,8 +3,8 @@
     "title": "Crypto Exchange",
     "source": "https://github.com/rcamach7/crypto-exchange",
     "live": "https://rcamach7.github.io/crypto-exchange/#/",
-    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1654634336/main-portfolio/projects/crypto-exchange_jzc8uv.png",
-    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1654634336/main-portfolio/projects/crypto-exchange_jzc8uv.png",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159161/main-portfolio/projects/crypto_demo_qlqb7o.gif",
+    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655150813/main-portfolio/projects/crypto_still_d4dsjm.png",
     "technologies": [
       "React",
       "Typescript",
@@ -21,10 +21,10 @@
   },
   {
     "title": "Instant Messaging App",
-    "source": "https://github.com/rcamach7/messenger",
-    "live": "https://rcamach7.github.io/messenger/#/messenger",
-    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1649988013/main-portfolio/projects/messenger_kohrka.png",
-    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1649988013/main-portfolio/projects/messenger_kohrka.png",
+    "source": "https://github.com/rcamach7/instant-messenger",
+    "live": "https://rcamach7.github.io/instant-messenger/#/instant-messenger",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655167412/main-portfolio/projects/instantMessenger_demo_m5cvzk.gif",
+    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159961/main-portfolio/projects/messenger_still_rrlsye.png",
     "technologies": [
       "React",
       "NodeJS",
@@ -44,8 +44,8 @@
     "title": "Facebook Clone",
     "source": "https://github.com/rcamach7/facebook-clone",
     "live": "https://rcamach7.github.io/facebook-clone/",
-    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1646177656/main-portfolio/projects/facebookDemo_luz8lw.gif",
-    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1646275912/main-portfolio/projects/fbStill_n8vqjb.png",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655167109/main-portfolio/projects/facebook_demo_ijou3l.gif",
+    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655162356/main-portfolio/projects/facebook_still_hupupa.png",
     "technologies": ["React", "Firebase", "Javascript", "SASS"],
     "bulletPoints": [
       "Allows users to make a post with text and/or pictures, and ability to like posts or comments.",

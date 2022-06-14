@@ -13,7 +13,7 @@ export default function AboutMe() {
 
       <div className="aboutme-container reveal">
         <div className="aboutme-main">
-          <div className="aboutme-picture"></div>
+          <div className="aboutme-picture" />
 
           <div className="aboutme-information">
             <p className="info">
