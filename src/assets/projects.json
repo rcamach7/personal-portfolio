@@ -5,6 +5,7 @@
     "live": "https://rcamach7.github.io/crypto-exchange/#/",
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159161/main-portfolio/projects/crypto_demo_qlqb7o.gif",
     "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655150813/main-portfolio/projects/crypto_still_d4dsjm.png",
+    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1655229875/main-portfolio/projects/scaled_down_images/crypto_still_rdevwl.png",
     "technologies": [
       {
         "name": "Typescript",
@@ -44,6 +45,7 @@
     "live": "https://rcamach7.github.io/instant-messenger/#/instant-messenger",
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655167412/main-portfolio/projects/instantMessenger_demo_m5cvzk.gif",
     "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159961/main-portfolio/projects/messenger_still_rrlsye.png",
+    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1655229784/main-portfolio/projects/scaled_down_images/messenger_still_lmdujv.png",
     "technologies": [
       {
         "name": "React",
@@ -73,6 +75,7 @@
     "live": "https://rcamach7.github.io/facebook-clone/",
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655167109/main-portfolio/projects/facebook_demo_ijou3l.gif",
     "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655162356/main-portfolio/projects/facebook_still_hupupa.png",
+    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1655228802/main-portfolio/projects/scaled_down_images/facebook_still_us7sov.png",
     "technologies": [
       {
         "name": "React",
@@ -102,6 +105,7 @@
     "live": "https://fb-messenger-api.herokuapp.com",
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655168192/main-portfolio/projects/socialMediaApi_still_e5ygtc.png",
     "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655168192/main-portfolio/projects/socialMediaApi_still_e5ygtc.png",
+    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1655168192/main-portfolio/projects/socialMediaApi_still_e5ygtc.png",
     "technologies": [
       {
         "name": "Javascript",

@@ -1,8 +1,11 @@
 import projects from "../assets/projects.json";
+import useWindowDimensions from "../hooks/useWindowDimensions";
 
 export default function Projects() {
+  const { width } = useWindowDimensions();
+
   const projectsCollection = projects.map((project, i) => (
-    <Project key={i} project={project} />
+    <Project key={i} project={project} width={width} />
   ));
 
   return (
@@ -15,19 +18,21 @@ export default function Projects() {
   );
 }
 
-function Project({ project }) {
+function Project({ project, width }) {
   return (
     <section className="Project reveal">
       <div className="imageContainer">
         <div className="gif" style={{ backgroundImage: `url(${project.gif})` }}>
           <div
             className="topImage"
-            style={{ backgroundImage: `url(${project.still})` }}
+            style={{
+              backgroundImage: `url(${
+                width < 450 ? project.still_small : project.still
+              })`,
+            }}
           />
         </div>
       </div>
-
-      {/* <img src={project.still} alt="" /> */}
 
       <h2 className="project-title">{project.title}</h2>
 
