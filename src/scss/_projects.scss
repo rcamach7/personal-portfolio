@@ -92,6 +92,10 @@
       flex-wrap: wrap;
       li {
         font-size: 19px;
+        .techImage {
+          width: 40px;
+          height: 40px;
+        }
         .techPipe {
           padding: 0 5px 0 5px;
           color: v.$theme-main;
