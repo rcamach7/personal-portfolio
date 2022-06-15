@@ -40,7 +40,9 @@ export default function Sidebars() {
       <ul className="rightSide">
         <li className="email">
           <address>
-            <a href="mailto:ricmireles7@gmail.com">ricmireles7@gmail.com</a>
+            <a href="mailto:contact@ricardo-camacho.dev">
+              contact@ricardo-camacho.dev
+            </a>
           </address>
         </li>
         <li className="bar"></li>

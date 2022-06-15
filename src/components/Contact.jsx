@@ -20,7 +20,7 @@ export default function Contact() {
     e.preventDefault();
     axios.post("https://formspree.io/f/xyyodvoe", message).then(() => {
       setMessage({ name: "", email: "", message: "" });
-      alert("Message sent");
+      alert("Message has been sent!");
     });
   };
 
