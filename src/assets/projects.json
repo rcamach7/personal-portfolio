@@ -43,6 +43,41 @@
     ]
   },
   {
+    "title": "Facebook Clone",
+    "source": "https://github.com/rcamach7/facebook-clone",
+    "live": "https://rcamach7.github.io/facebook-clone/",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655167109/main-portfolio/projects/facebook_demo_ijou3l.gif",
+    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655162356/main-portfolio/projects/facebook_still_hupupa.png",
+    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1655228802/main-portfolio/projects/scaled_down_images/facebook_still_us7sov.png",
+    "technologies": [
+      {
+        "name": "React",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
+      },
+      {
+        "name": "Redux",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1656116643/main-portfolio/tech-skills/redux_rbbutz.png"
+      },
+      {
+        "name": "Javascript",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/js-anim_pxxk0j.gif"
+      },
+      {
+        "name": "SASS",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648515099/main-portfolio/animated-logos/sass-animated_lhind3.gif"
+      },
+      {
+        "name": "HTML",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/html-anim_pel2zj.gif"
+      }
+    ],
+    "bulletPoints": [
+      "Facebook clone that allows user to make a post with text or pictures, and like posts or comments. Uses my social media API server for the backend.",
+      "Utilizes Redux for state management, react lifecycle methods, and custom hooks to manage application features.",
+      "User interface built with React. Made fully responsive with media breakpoints and CSS sizing functions."
+    ]
+  },
+  {
     "title": "Instant Messaging App",
     "source": "https://github.com/rcamach7/instant-messenger",
     "live": "https://rcamach7.github.io/instant-messenger/#/instant-messenger",
@@ -70,36 +105,6 @@
     "bulletPoints": [
       "Real-time messaging established by creating web socket connections with my social media api server, enabling instant communication.",
       "User UI built with React, styled with SCSS, and designed with a mobile first approach, making it responsive to all view ports."
-    ]
-  },
-  {
-    "title": "Facebook Clone",
-    "source": "https://github.com/rcamach7/facebook-clone",
-    "live": "https://rcamach7.github.io/facebook-clone/",
-    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1655167109/main-portfolio/projects/facebook_demo_ijou3l.gif",
-    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1655162356/main-portfolio/projects/facebook_still_hupupa.png",
-    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1655228802/main-portfolio/projects/scaled_down_images/facebook_still_us7sov.png",
-    "technologies": [
-      {
-        "name": "React",
-        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
-      },
-      {
-        "name": "Javascript",
-        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/js-anim_pxxk0j.gif"
-      },
-      {
-        "name": "SASS",
-        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648515099/main-portfolio/animated-logos/sass-animated_lhind3.gif"
-      },
-      {
-        "name": "HTML",
-        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/html-anim_pel2zj.gif"
-      }
-    ],
-    "bulletPoints": [
-      "Facebook clone that allows user to make a post with text or pictures, and like posts or comments. Uses my social media API server for the backend.",
-      "User interface built with React. Made fully responsive with media breakpoints and CSS sizing functions."
     ]
   },
   {
