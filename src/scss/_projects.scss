@@ -98,6 +98,7 @@
     li::before {
       content: "\2022";
       padding-right: 5px;
+      padding-left: 5px;
       color: v.$theme-main;
       font-size: 20px;
     }
@@ -111,13 +112,19 @@
       flex-wrap: wrap;
       li {
         font-size: 19px;
+        padding: 0 5px 0 5px;
+
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 2px;
         .techImage {
           width: 40px;
           height: 40px;
         }
-        .techPipe {
-          padding: 0 5px 0 5px;
-          color: v.$theme-main;
+        .techName {
+          font-size: 7px;
+          text-align: center;
         }
       }
     }

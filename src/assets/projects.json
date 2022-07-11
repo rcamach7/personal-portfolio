@@ -8,12 +8,16 @@
     "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1655229875/main-portfolio/projects/scaled_down_images/crypto_still_rdevwl.png",
     "technologies": [
       {
-        "name": "Typescript",
-        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png"
-      },
-      {
         "name": "React",
         "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
+      },
+      {
+        "name": "Redux",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1656116643/main-portfolio/tech-skills/redux_rbbutz.png"
+      },
+      {
+        "name": "Typescript",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png"
       },
       {
         "name": "MUI",
@@ -37,9 +41,10 @@
       }
     ],
     "bulletPoints": [
-      "Users can view, purchase and sell crypto coins at real-time market prices. Crypto data can be filtered and sorted while viewing.",
-      "UI built with Typescript and React. Utilized MUI Components, styled components, and SCSS for a responsive UX.",
-      "Implemented user authentication, protected routes, data validation and sanitation, custom React hooks, error handling on API calls, and much more."
+      "Users can view, purchase and sell crypto coins at real-time market prices.",
+      "Client built with React, using typescript. Utilized MUI Components, styled components, and SCSS for a responsive UI.",
+      "Utilized Redux to manage application state for easier and more predictable access across application.",
+      "Implemented user authentication via JWT, data validation/sanitation on client and server, and error handling on API calls."
     ]
   },
   {
@@ -72,7 +77,7 @@
       }
     ],
     "bulletPoints": [
-      "Facebook clone that allows user to make a post with text or pictures, and like posts or comments. Uses my social media API server for the backend.",
+      "Facebook clone that allows user to make a post with text or pictures, and like posts or comments. Uses my social media API for the backend.",
       "Utilizes Redux for state management, react lifecycle methods, and custom hooks to manage application features.",
       "User interface built with React. Made fully responsive with media breakpoints and CSS sizing functions."
     ]
@@ -103,8 +108,8 @@
       }
     ],
     "bulletPoints": [
-      "Real-time messaging established by creating web socket connections with my social media api server, enabling instant communication.",
-      "User UI built with React, styled with SCSS, and designed with a mobile first approach, making it responsive to all view ports."
+      "Real-time messaging established by creating web socket connections with my social media api, enabling instant communication.",
+      "UI built with React, styled with SCSS, and designed with a mobile first approach, making it responsive to all view ports."
     ]
   },
   {
@@ -138,8 +143,8 @@
     ],
     "bulletPoints": [
       "A RESTful API that serves both of my keystone web applications: Instant Messenger and Facebook Clone.",
-      "Users maintain same information across both applications, allowing them to sign in with the same credentials, and maintain their friends across both platforms.",
-      "Performs CRUD operations on the following assets: users, posts, messages, and friends."
+      "Performs CRUD operations on the following assets: users, posts, messages, and friends.",
+      "Users maintain same information across both applications, allowing them to sign in with the same credentials, and maintain their friends across both platforms."
     ]
   }
 ]

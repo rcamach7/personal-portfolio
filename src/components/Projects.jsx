@@ -52,9 +52,7 @@ function Project({ project, width }) {
                 src={techItem.link}
                 alt={techItem.name}
               />
-              <span className="techPipe">
-                {i + 1 === project.technologies.length ? null : ""}
-              </span>
+              <span className="techName">{techItem.name}</span>
             </li>
           ))}
         </ul>
