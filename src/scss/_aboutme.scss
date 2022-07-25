@@ -63,9 +63,15 @@
       }
     }
 
-    .skills-title {
-      padding-bottom: 10px;
-      color: v.$text-secondary;
+    .skills-title-frontend {
+      padding-bottom: 5px;
+      color: v.$text-main;
+      text-align: center;
+    }
+    .skills-title-backend {
+      margin-top: 15px;
+      padding-bottom: 5px;
+      color: v.$text-main;
       text-align: center;
     }
     .skills-container {
@@ -78,8 +84,8 @@
 }
 
 .SkillCard {
-  width: 90px;
-  height: 90px;
+  width: 70px;
+  height: 70px;
 
   padding: 5px;
 
@@ -88,8 +94,8 @@
   align-items: center;
 
   img {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
   }
   p {
     font-size: 14px;

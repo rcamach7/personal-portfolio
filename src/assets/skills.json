@@ -1,50 +1,66 @@
-[
-  {
-    "skill": "React",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/react_hdsoby.png"
-  },
-  {
-    "skill": "Redux",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1656116643/main-portfolio/tech-skills/redux_rbbutz.png"
-  },
-  {
-    "skill": "Typescript",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png"
-  },
-  {
-    "skill": "NodeJS",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101318/main-portfolio/tech-skills/node_lzpvq6.png"
-  },
-  {
-    "skill": "MongoDB",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101239/main-portfolio/tech-skills/mongodb_r1xhyn.png"
-  },
-  {
-    "skill": "ExpressJS",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png"
-  },
-  {
-    "skill": "MUI",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1655232059/main-portfolio/tech-skills/mui_p9jh58.png"
-  },
-  {
-    "skill": "SocketIO",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159498/main-portfolio/tech-skills/socketio_jkkj1u.png"
-  },
-  {
-    "skill": "Sass",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/sass_qncd58.png"
-  },
-  {
-    "skill": "Firebase",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646273705/main-portfolio/tech-skills/firebase_igurdi.png"
-  },
-  {
-    "skill": "Git",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png"
-  },
-  {
-    "skill": "Java",
-    "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100628/main-portfolio/tech-skills/java_ilp3ec.png"
-  }
-]
+{
+  "frontend": [
+    {
+      "skill": "React",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/react_hdsoby.png"
+    },
+    {
+      "skill": "Redux",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1656116643/main-portfolio/tech-skills/redux_rbbutz.png"
+    },
+    {
+      "skill": "Typescript",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png"
+    },
+    {
+      "skill": "MUI",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1655232059/main-portfolio/tech-skills/mui_p9jh58.png"
+    },
+    {
+      "skill": "SocketIO",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159498/main-portfolio/tech-skills/socketio_jkkj1u.png"
+    },
+    {
+      "skill": "Auth0",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1658778636/main-portfolio/tech-skills/auth0_zjc27e.svg"
+    },
+    {
+      "skill": "Sass",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/sass_qncd58.png"
+    },
+    {
+      "skill": "HTML",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/html_qpxonu.png"
+    },
+    {
+      "skill": "CSS",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646099328/main-portfolio/tech-skills/css_jxxapd.png"
+    }
+  ],
+  "backend_tools": [
+    {
+      "skill": "NodeJS",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101318/main-portfolio/tech-skills/node_lzpvq6.png"
+    },
+    {
+      "skill": "MongoDB",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101239/main-portfolio/tech-skills/mongodb_r1xhyn.png"
+    },
+    {
+      "skill": "ExpressJS",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png"
+    },
+    {
+      "skill": "Firebase",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646273705/main-portfolio/tech-skills/firebase_igurdi.png"
+    },
+    {
+      "skill": "Git",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png"
+    },
+    {
+      "skill": "Java",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100628/main-portfolio/tech-skills/java_ilp3ec.png"
+    }
+  ]
+}

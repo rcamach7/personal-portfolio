@@ -1,7 +1,10 @@
 import skillData from "../assets/skills.json";
 
 export default function AboutMe() {
-  const skillCards = skillData.map((skillItem, i) => (
+  const frontEndSkillCards = skillData.frontend.map((skillItem, i) => (
+    <SkillCard key={i} skill={skillItem} />
+  ));
+  const backEndSkillCards = skillData.backend_tools.map((skillItem, i) => (
     <SkillCard key={i} skill={skillItem} />
   ));
 
@@ -32,18 +35,22 @@ export default function AboutMe() {
           </div>
         </div>
 
-        <p className="skills-title">Strong skills in:</p>
-        <div className="skills-container">{skillCards}</div>
+        <p className="skills-title-frontend">Frontend</p>
+        <div className="skills-container">{frontEndSkillCards}</div>
+
+        <p className="skills-title-backend">Backend + Tools</p>
+        <div className="skills-container">{backEndSkillCards}</div>
       </div>
     </section>
   );
 }
 
-function SkillCard(props) {
+function SkillCard({ skill }) {
+  const { img } = skill;
   return (
     <div className="SkillCard">
-      <img src={props.skill.img} alt="" />
-      <p>{props.skill.skill}</p>
+      <img src={img} alt={skill.skill} />
+      <p>{skill.skill}</p>
     </div>
   );
 }
