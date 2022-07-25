@@ -2,7 +2,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGithub,
   faLinkedin,
-  faFacebook,
   faDev,
 } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
@@ -90,12 +89,17 @@ export default function Contact() {
         <a
           target="_blank"
           rel="noopener noreferrer"
+          href="https://www.linkedin.com/in/ricardocamachomireles/"
+        >
+          <FontAwesomeIcon icon={faLinkedin} className="icon" />
+        </a>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
           href="https://dev.to/rcamach7"
         >
           <FontAwesomeIcon icon={faDev} className="icon" />
         </a>
-        <FontAwesomeIcon icon={faLinkedin} className="icon" />
-        <FontAwesomeIcon icon={faFacebook} className="icon" />
       </div>
     </section>
   );

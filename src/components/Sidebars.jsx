@@ -2,7 +2,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGithub,
   faLinkedin,
-  faFacebook,
   faDev,
 } from "@fortawesome/free-brands-svg-icons";
 
@@ -29,10 +28,13 @@ export default function Sidebars() {
           </a>
         </li>
         <li>
-          <FontAwesomeIcon icon={faLinkedin} className="icon" />
-        </li>
-        <li>
-          <FontAwesomeIcon icon={faFacebook} className="icon" />
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://www.linkedin.com/in/ricardocamachomireles/"
+          >
+            <FontAwesomeIcon icon={faLinkedin} className="icon" />
+          </a>
         </li>
         <li className="bar"></li>
       </ul>
