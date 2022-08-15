@@ -13,6 +13,10 @@
       "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png"
     },
     {
+      "skill": "NextJS",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1660605410/main-portfolio/tech-skills/nextjs_mf7wiy.png"
+    },
+    {
       "skill": "MUI",
       "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1655232059/main-portfolio/tech-skills/mui_p9jh58.png"
     },
@@ -21,8 +25,8 @@
       "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1655159498/main-portfolio/tech-skills/socketio_jkkj1u.png"
     },
     {
-      "skill": "Auth0",
-      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1658778636/main-portfolio/tech-skills/auth0_zjc27e.svg"
+      "skill": "Tailwind",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1660605449/main-portfolio/tech-skills/tailwind_oezbcn.png"
     },
     {
       "skill": "Sass",
@@ -49,6 +53,10 @@
     {
       "skill": "ExpressJS",
       "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png"
+    },
+    {
+      "skill": "NextAuth",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1660605915/main-portfolio/tech-skills/nextAuth_crkr2f.png"
     },
     {
       "skill": "Firebase",
