@@ -1,5 +1,36 @@
 [
   {
+    "title": "Community Fridge Map | OSS Contributor",
+    "source": "https://github.com/CollectiveFocus/CFM_Frontend",
+    "live": "https://github.com/CollectiveFocus/CFM_Frontend",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1663375193/main-portfolio/projects/cfm_desktop_mtfzas.png",
+    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1663375193/main-portfolio/projects/cfm_desktop_mtfzas.png",
+    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1663375193/main-portfolio/projects/cfm_desktop_mtfzas.png",
+    "technologies": [
+      {
+        "name": "React",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
+      },
+      {
+        "name": "Next.js",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1660605410/main-portfolio/tech-skills/nextjs_mf7wiy.png"
+      },
+      {
+        "name": "MUI",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1655232059/main-portfolio/tech-skills/mui_p9jh58.png"
+      },
+      {
+        "name": "Git",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png"
+      }
+    ],
+    "bulletPoints": [
+      "A web application that will allow users to find, manage, and donate to community food fridges hosted by volunteers across the country.",
+      "Utilize project management tools such as Trello and Github to collaborate with other developers, and to pickup and track tasks.",
+      "Created reusable and responsive UI components that are used across the web application, using a provided Figma design."
+    ]
+  },
+  {
     "title": "Crypto Exchange",
     "source": "https://github.com/rcamach7/crypto-exchange",
     "live": "https://rcamach7.github.io/crypto-exchange/#/",
