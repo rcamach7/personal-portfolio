@@ -25,13 +25,13 @@
       }
     ],
     "bulletPoints": [
-      "A web application that will allow users to find, manage, and donate to community food fridges hosted by volunteers across the country.",
-      "Utilize project management tools such as Trello and Github to collaborate with other developers, and to pickup and track tasks.",
-      "Created reusable and responsive UI components that are used across the web application, using a provided Figma design."
+      "Contribute to a web application that allows users to find, manage, and donate to community food fridges hosted by volunteers across the country",
+      "Developed reusable and responsive UI components from a provided Figma design that are used across the web application",
+      "Utilized project management tools such as Trello and Github to collaborate with other developers and to manage tasks"
     ]
   },
   {
-    "title": "Crypto Exchange",
+    "title": "Crypto Exchange Simulator",
     "source": "https://github.com/rcamach7/crypto-exchange",
     "live": "https://rcamach7.github.io/crypto-exchange/#/",
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1658189710/main-portfolio/projects/crypto_gif_optimized_losmlx.gif",
@@ -72,10 +72,9 @@
       }
     ],
     "bulletPoints": [
-      "Users can view, purchase and sell crypto coins at real-time market prices.",
-      "Client built with React, using typescript. Utilized MUI Components, styled components, and SCSS for a responsive UI.",
-      "Utilized Redux to manage application state for easier and more predictable access across application.",
-      "Implemented user authentication via JWT, data validation/sanitation on client and server, and error handling on API calls."
+      "Developed a full stack web application that allows users to practice investing in cryptocurrency by allowing them to view, purchase and sell crypto coins at real time market prices",
+      "Created a responsive UI by utilizing MUI components, styled components, and media breakpoints for dynamic sizing",
+      "Persisted data in MongoDB by creating a server with Node and Express, that allows CRUD interaction from client to server"
     ]
   },
   {
@@ -108,9 +107,9 @@
       }
     ],
     "bulletPoints": [
-      "Facebook clone that allows user to make a post with text or pictures, and like posts or comments. Uses my social media API for the backend.",
-      "Utilizes Redux for state management, react lifecycle methods, and custom hooks to manage application features.",
-      "User interface built with React. Made fully responsive with media breakpoints and CSS sizing functions."
+      "Developed an app that allows user to create and interact with posts, such as liking posts, leaving comments, or adding media to them",
+      "Created UI with React, using a mobile first approach",
+      "Implemented Redux for state management, and persisted application data by building and connecting to a server that uses Node, Express and MongoDB"
     ]
   },
   {
@@ -139,8 +138,9 @@
       }
     ],
     "bulletPoints": [
-      "Real-time messaging established by creating web socket connections with my social media api, enabling instant communication.",
-      "UI built with React, styled with SCSS, and designed with a mobile first approach, making it responsive to all view ports."
+      "Developed a real time messaging app that allows users to chat with each other",
+      "Created UI with React, styled with SCSS, and designed with a mobile first approach, making it responsive to all view ports",
+      "Achieved instant communication by establishing web socket connections with my custom server"
     ]
   },
   {
