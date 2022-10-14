@@ -1,19 +1,19 @@
 [
   {
-    "title": "Community Fridge Map | OSS Contributor",
+    "title": "Fridge Finder | OSS Contributor",
     "source": "https://github.com/CollectiveFocus/CFM_Frontend",
-    "live": "https://github.com/CollectiveFocus/CFM_Frontend",
+    "live": "https://www.fridgefinder.app/",
     "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1663375193/main-portfolio/projects/cfm_desktop_mtfzas.png",
     "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1663375193/main-portfolio/projects/cfm_desktop_mtfzas.png",
     "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1663375193/main-portfolio/projects/cfm_desktop_mtfzas.png",
     "technologies": [
       {
-        "name": "React",
-        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
-      },
-      {
         "name": "Next.js",
         "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1660605410/main-portfolio/tech-skills/nextjs_mf7wiy.png"
+      },
+      {
+        "name": "React",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
       },
       {
         "name": "MUI",
