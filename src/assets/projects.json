@@ -31,6 +31,42 @@
     ]
   },
   {
+    "title": "Project Management App",
+    "source": "https://github.com/rcamach7/project-management-app",
+    "live": "https://github.com/rcamach7/project-management-app",
+    "gif": "",
+    "still": "",
+    "still_small": "",
+    "technologies": [
+      {
+        "name": "Next.js",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1660605410/main-portfolio/tech-skills/nextjs_mf7wiy.png"
+      },
+      {
+        "name": "Typescript",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png"
+      },
+      {
+        "name": "React",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
+      },
+      {
+        "name": "MUI",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1655232059/main-portfolio/tech-skills/mui_p9jh58.png"
+      },
+      {
+        "name": "MongoDB",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101239/main-portfolio/tech-skills/mongodb_r1xhyn.png"
+      }
+    ],
+    "bulletPoints": [
+      "A web application that helps you manage your software projects and tasks by creating workspaces, boards, and tickets!",
+      "Utilized static and server rendered pages where applicable to optimize SEO and improve load performance",
+      "Incorporated a atomic design pattern that allows for easy scaling and maintenance",
+      "Fully responsive design that works on all devices and screen sizes"
+    ]
+  },
+  {
     "title": "Crypto Exchange Simulator",
     "source": "https://github.com/rcamach7/crypto-exchange",
     "live": "https://rcamach7.github.io/crypto-exchange/#/",
