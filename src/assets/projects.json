@@ -34,9 +34,9 @@
     "title": "Project Management App",
     "source": "https://github.com/rcamach7/project-management-app",
     "live": "https://github.com/rcamach7/project-management-app",
-    "gif": "",
-    "still": "",
-    "still_small": "",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1669166598/main-portfolio/projects/flow_g_xk34so.gif",
+    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1669166099/main-portfolio/projects/flow_lg_ofqi5z.png",
+    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1669166098/main-portfolio/projects/flow_md_kt2e4x.png",
     "technologies": [
       {
         "name": "Next.js",
