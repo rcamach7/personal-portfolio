@@ -16,7 +16,7 @@ function Intro() {
       <button
         onClick={() =>
           window.open(
-            "https://drive.google.com/file/d/1CM48Wya0Jg1NFqnEhj2MS1EDNttiUYhK/view?usp=sharing",
+            "https://drive.google.com/file/d/1GpYCxI_FxsFQoSdMg_VptYgjSblfiEzU/view?usp=sharing",
             "_blank"
           )
         }
