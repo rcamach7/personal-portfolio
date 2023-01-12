@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ricardo 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-ricardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/jlim/)
+[![Linkedin Badge](https://img.shields.io/badge/-ricardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/ricardocamachomireles/)
 [![Website Badge](https://img.shields.io/badge/-ricardo.camacho.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ricardo-camacho.dev)](https://ricardo-camacho.dev)
 [![Gmail Badge](https://img.shields.io/badge/-ricmireles7-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ricmireles7@gmail.com@gmail.com)](mailto:ricmireles7@gmail.com)
 
