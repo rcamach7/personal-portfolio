@@ -4,13 +4,16 @@
 [![Website Badge](https://img.shields.io/badge/-ricardo.camacho.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ricardo-camacho.dev)](https://ricardo-camacho.dev)
 [![Gmail Badge](https://img.shields.io/badge/-ricmireles7-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ricmireles7@gmail.com@gmail.com)](mailto:ricmireles7@gmail.com)
 
-I find a lot of enjoyment in challenging myself in becoming a better skilled developer by building applications, and working with other like minded individuals. I am open to new opportunities and would love to hear from you!
+I am passionate about continuously improving my skills as a developer by building applications and collaborating with other experienced individuals. I am open to new opportunities and welcome the chance to connect.
 
-Visit my [**portfolio website**](https://www.ricardo-camacho.dev/) and connect with me!
+Please feel free to visit my [**portfolio website**](https://www.ricardo-camacho.dev/) and reach out to me.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcamach7&hide=stars&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3> Frontend Technologies </h3>
+---
+ 
+<h3>Skills In Frontend:</h3>
 <p>
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png" width="50" height="50" alt="Typescript" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif" width="50" height="50" alt="React" />
@@ -25,7 +28,9 @@ Visit my [**portfolio website**](https://www.ricardo-camacho.dev/) and connect w
 
 (_Typescript, React, Redux, NextJS, TailWindCss, SASS, Javascript, HTML, CSS_)
 
-<h3> Backend Technologies </h3>
+<br>
+
+<h3>Skills In Backend:</h3>
 <p>
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646101318/main-portfolio/tech-skills/node_lzpvq6.png" width="50" height="50" alt="NodeJS" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png" width="50" height="50" alt="Express" />
@@ -36,7 +41,9 @@ Visit my [**portfolio website**](https://www.ricardo-camacho.dev/) and connect w
 
 (_NodeJS, Express, MongoDB, Firebase, Java_)
 
-<h3> Tools, Libraries and more... </h3>
+<br>
+
+<h3>Skills In Tools, Libraries and more... </h3>
 <p>
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/npm_xh0kkl.png" width="50" height="50" alt="NPM" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png" width="50" height="50" alt="Git" />
