@@ -20,17 +20,15 @@ export default function AboutMe() {
 
           <div className="aboutme-information">
             <p className="info">
-              Hi! I have a profound love for problem solving, which is at the
-              root of why I enjoy programming so much! I find a lot of enjoyment
-              in challenging myself to work through tough problems and
-              situations.
+              Hi! I am passion about problem solving, which is at the root of
+              why I enjoy programming so much! I find a lot of enjoyment in
+              challenging myself to work through tough problems and situations
+              to improve my skills.
             </p>
             <p className="info">
-              I believe anything can be achieved through hard work.
-            </p>
-            <p className="info">
-              I have built and deployed multiple web applications using both
-              front end and back end technologies, some of which listed below.
+              I have experience in developing and deploying web applications
+              utilizing a variety of front-end and back-end technologies. A non
+              exhaustive list can be found below.
             </p>
           </div>
         </div>
@@ -38,7 +36,7 @@ export default function AboutMe() {
         <p className="skills-title-frontend">Frontend</p>
         <div className="skills-container">{frontEndSkillCards}</div>
 
-        <p className="skills-title-backend">Backend + Tools</p>
+        <p className="skills-title-backend">Backend & Tools</p>
         <div className="skills-container">{backEndSkillCards}</div>
       </div>
     </section>

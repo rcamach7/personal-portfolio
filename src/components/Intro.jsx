@@ -7,9 +7,9 @@ function Intro() {
 
       <p className="description">
         <strong>
-          I am a highly motivated full stack developer that thrives in
-          environments that challenge me and allow me to grow and develop my
-          skills!
+          As a highly motivated full stack developer, I excel in challenging
+          environments where I can continuously improve my skills and grow
+          professionally.
         </strong>
       </p>
 
