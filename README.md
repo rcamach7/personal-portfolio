@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ricardo 👋</h1>
+<h1>Hi, I'm Ricardo! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ricardo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/ricardocamachomireles/)
 [![Website Badge](https://img.shields.io/badge/-ricardo.camacho.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ricardo-camacho.dev)](https://ricardo-camacho.dev)
@@ -24,11 +24,10 @@ Please feel free to visit my [**portfolio website**](https://www.ricardo-camacho
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/js-anim_pxxk0j.gif" width="50" height="50" alt="Javascript" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/html-anim_pel2zj.gif" width="50" height="50" alt="HTML" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648514837/main-portfolio/animated-logos/css-anim_cwgnx2.gif" width="50" height="50" alt="CSS" />
+  
 </p>
 
 (_Typescript, React, Redux, NextJS, TailWindCss, SASS, Javascript, HTML, CSS_)
-
-<br>
 
 <h3>Skills In Backend:</h3>
 <p>
@@ -40,8 +39,6 @@ Please feel free to visit my [**portfolio website**](https://www.ricardo-camacho
 </p>
 
 (_NodeJS, Express, MongoDB, Firebase, Java_)
-
-<br>
 
 <h3>Skills In Tools, Libraries and more... </h3>
 <p>
