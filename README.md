@@ -13,7 +13,9 @@ Please feel free to visit my [**portfolio website**](https://www.ricardo-camacho
 
 ---
  
-<h3>Skills In Frontend:</h3>
+## Technical Skills
+
+<h3>Frontend:</h3>
 <p>
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png" width="50" height="50" alt="Typescript" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif" width="50" height="50" alt="React" />
@@ -29,7 +31,7 @@ Please feel free to visit my [**portfolio website**](https://www.ricardo-camacho
 
 (_Typescript, React, Redux, NextJS, TailWindCss, SASS, Javascript, HTML, CSS_)
 
-<h3>Skills In Backend:</h3>
+<h3>Backend:</h3>
 <p>
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646101318/main-portfolio/tech-skills/node_lzpvq6.png" width="50" height="50" alt="NodeJS" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1647634998/main-portfolio/tech-skills/express_ibtfvl.png" width="50" height="50" alt="Express" />
@@ -40,7 +42,7 @@ Please feel free to visit my [**portfolio website**](https://www.ricardo-camacho
 
 (_NodeJS, Express, MongoDB, Firebase, Java_)
 
-<h3>Skills In Tools, Libraries and more... </h3>
+<h3>Tools, Libraries, Frameworks and more... </h3>
 <p>
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646099327/main-portfolio/tech-skills/npm_xh0kkl.png" width="50" height="50" alt="NPM" />
   <img src="https://res.cloudinary.com/de2ymful4/image/upload/v1646100087/main-portfolio/tech-skills/git_wjkubp.png" width="50" height="50" alt="Git" />
