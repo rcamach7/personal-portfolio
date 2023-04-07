@@ -20,15 +20,15 @@ export default function AboutMe() {
 
           <div className="aboutme-information">
             <p className="info">
-              Hi! I am passion about problem solving, which is at the root of
-              why I enjoy programming so much! I find a lot of enjoyment in
-              challenging myself to work through tough problems and situations
-              to improve my skills.
+              Hey there! I'm super excited about solving problems, which is the
+              main reason I'm so into programming! I just love putting myself to
+              the test by tackling tough issues and situations, all in the name
+              of sharpening my skills.
             </p>
             <p className="info">
-              I have experience in developing and deploying web applications
-              utilizing a variety of front-end and back-end technologies. A non
-              exhaustive list can be found below.
+              I've had the chance to build and launch various web apps,
+              utilizing a ton of different front-end and back-end tech. Here's a
+              list of my skills, although it's not exhaustive:
             </p>
           </div>
         </div>

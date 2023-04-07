@@ -47,6 +47,14 @@
       "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101318/main-portfolio/tech-skills/node_lzpvq6.png"
     },
     {
+      "skill": "PostgreSQL",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1680828474/main-portfolio/tech-skills/posgre_earnut.webp"
+    },
+    {
+      "skill": "Prisma",
+      "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1680828474/main-portfolio/tech-skills/prisma_pqxhjx.png"
+    },
+    {
       "skill": "MongoDB",
       "img": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101239/main-portfolio/tech-skills/mongodb_r1xhyn.png"
     },
