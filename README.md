@@ -9,7 +9,7 @@ I'm super excited about always leveling up my developer skills, whether it's by 
 Please feel free to visit my [**portfolio website**](https://www.ricardo-camacho.dev/) and reach out to me.
 
 
-[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcamach7&hide=stars&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcamach7&hide=stars&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
  
