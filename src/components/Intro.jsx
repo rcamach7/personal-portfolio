@@ -7,8 +7,9 @@ function Intro() {
 
       <p className="description">
         <strong>
-          As an enthusiastic full stack developer, I love tackling challenges
-          where I can keep honing my skills and grow professionally.
+          I'm a dedicated full-stack developer with a passion for building
+          user-friendly web experiences. With a mix of front-end and back-end
+          skills, I'm eager to turn your digital ideas into reality.
         </strong>
       </p>
 
