@@ -20,10 +20,11 @@ export default function AboutMe() {
 
           <div className="aboutme-information">
             <p className="info">
-              Hi there! What draws me to programming is the engagement of
-              tackling challenging tasks and resolving intricate issues! I love
-              pushing my boundaries by dealing with tough situations and
-              problems, all in the effort to improve my skills.
+              Hello! I've always been captivated by the world of programming,
+              especially the thrill of addressing complex challenges and finding
+              solutions to intricate problems. Pushing my boundaries and diving
+              into tough situations is how I constantly refine and hone my
+              skills.
             </p>
             <p className="info">
               I've had the experience of designing and launching several web

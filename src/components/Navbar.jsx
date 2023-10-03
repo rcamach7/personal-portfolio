@@ -69,7 +69,7 @@ export default function Navbar() {
             className="menu-resume"
             onClick={() =>
               window.open(
-                "https://drive.google.com/file/d/1CM48Wya0Jg1NFqnEhj2MS1EDNttiUYhK/view?usp=sharing",
+                "https://drive.google.com/file/d/1VVvL9arYRu92XUXabiU1rHx4TrQTw3fO/view?usp=sharing",
                 "_blank"
               )
             }
