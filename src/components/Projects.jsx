@@ -23,14 +23,14 @@ function Project({ project, width }) {
     <section className="Project reveal">
       <div className="imageContainer">
         <div className="gif" style={{ backgroundImage: `url(${project.gif})` }}>
-          <div
+          {/* <div
             className="topImage"
             style={{
               backgroundImage: `url(${
                 width < 450 ? project.still_small : project.still
               })`,
             }}
-          />
+          /> */}
         </div>
       </div>
 

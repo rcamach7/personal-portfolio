@@ -7,8 +7,8 @@ function Intro() {
 
       <p className="description">
         <strong>
-          With expertise in both front-end and back-end development, I'm
-          committed to bringing your digital visions to life.
+          Building websites that look great and work smoothly, from start to
+          finish.
         </strong>
       </p>
 

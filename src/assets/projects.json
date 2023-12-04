@@ -1,5 +1,41 @@
 [
   {
+    "title": "SmartReads",
+    "source": "https://github.com/rcamach7/smart-reader",
+    "live": "https://smart-reader.vercel.app/",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1701663112/smartreads_p3tvld.png",
+    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1701663112/smartreads_p3tvld.png",
+    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1701663112/smartreads_p3tvld.png",
+    "technologies": [
+      {
+        "name": "Next.js",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1660605410/main-portfolio/tech-skills/nextjs_mf7wiy.png"
+      },
+      {
+        "name": "React",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1648514838/main-portfolio/animated-logos/react-anim_jqtsxo.gif"
+      },
+      {
+        "name": "MUI",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1655232059/main-portfolio/tech-skills/mui_p9jh58.png"
+      },
+      {
+        "name": "Typescript",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1652491477/main-portfolio/tech-skills/typescript_v3ztli.png"
+      },
+      {
+        "name": "MongoDB",
+        "link": "https://res.cloudinary.com/de2ymful4/image/upload/v1646101239/main-portfolio/tech-skills/mongodb_r1xhyn.png"
+      }
+    ],
+    "bulletPoints": [
+      "SmartReads is an engaging platform for discovering, organizing, and sharing your favorite books, complete with AI-generated insights.",
+      "Utilizing OpenAI's GPT Model, our app generates engaging book blurbs and personalized recommendations.",
+      "Built with Next.js and Material-UI, SmartReads is designed to be mobile-friendly and responsive.",
+      "Leveraging the Google Books API, users can search for a wide range of books with ease."
+    ]
+  },
+  {
     "title": "Fridge Finder | OSS Contributor",
     "source": "https://github.com/CollectiveFocus/CFM_Frontend",
     "live": "https://www.fridgefinder.app/",
