@@ -7,6 +7,6 @@
 
 # misc
 .DS_Store
-/.vscode
+.vscode
 
 npm-debug.log*
