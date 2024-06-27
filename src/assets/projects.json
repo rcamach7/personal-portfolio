@@ -3,9 +3,9 @@
     "title": "SmartReads",
     "source": "https://github.com/rcamach7/smart-reader",
     "live": "https://smart-reader.vercel.app/",
-    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1701663112/smartreads_p3tvld.png",
-    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1701663112/smartreads_p3tvld.png",
-    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1701663112/smartreads_p3tvld.png",
+    "gif": "https://res.cloudinary.com/de2ymful4/image/upload/v1719530543/smart-reads/sr_home_cvlbxr.png",
+    "still": "https://res.cloudinary.com/de2ymful4/image/upload/v1719530543/smart-reads/sr_home_cvlbxr.png",
+    "still_small": "https://res.cloudinary.com/de2ymful4/image/upload/v1719530543/smart-reads/sr_home_cvlbxr.png",
     "technologies": [
       {
         "name": "Next.js",
