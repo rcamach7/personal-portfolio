@@ -4,9 +4,9 @@
 [![Website Badge](https://img.shields.io/badge/-ricardo.camacho.dev-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://ricardo-camacho.dev)](https://ricardo-camacho.dev)
 [![Gmail Badge](https://img.shields.io/badge/-ricmireles7-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ricmireles7@gmail.com@gmail.com)](mailto:ricmireles7@gmail.com)
 
-I enjoy building web applications and learning new technologies! I am always looking for opportunities to work on projects that are challenging and allow me to grow as a developer.
+I enjoy building web applications and learning new technologies! I'm always eager to take on new challenges and contribute to open-source projects.
 
-Please feel free to visit my [**portfolio website**](https://www.ricardo-camacho.dev/) and reach out to me.
+Please feel free to visit my [**portfolio website**](https://www.ricardo-camacho.dev/).
 
 
 <!-- [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcamach7&hide=stars&count_private=true&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -15,7 +15,7 @@ Please feel free to visit my [**portfolio website**](https://www.ricardo-camacho
  
 ## Technical Skills
 
-Here's a non-exhaustive list of technologies I have worked with. I am always eager to learn new technologies and improve my skills.
+Here's a table of some of my skills:
 
 | Category            | Technologies                                               |
 |---------------------|------------------------------------------------------------|

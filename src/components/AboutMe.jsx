@@ -20,16 +20,15 @@ export default function AboutMe() {
 
           <div className="aboutme-information">
             <p className="info">
-              Hello! I've always been captivated by the world of programming,
-              especially the thrill of addressing complex challenges and finding
-              solutions to intricate problems. Pushing my boundaries and diving
-              into tough situations is how I constantly refine and hone my
-              skills.
+              Hello! I've always loved programming, especially solving tough
+              problems. I enjoy pushing my limits and tackling difficult tasks
+              to keep improving my skills. Finding solutions to tricky
+              challenges keeps me motivated and constantly learning.
             </p>
             <p className="info">
-              I've had the experience of designing and launching several web
-              apps, using a broad mix of both front-end and back-end
-              technologies. Here's a non-exhaustive list of my skills:
+              I've designed and launched several web apps, using a mix of
+              front-end and back-end technologies. Here's a list of some of my
+              skills:
             </p>
           </div>
         </div>

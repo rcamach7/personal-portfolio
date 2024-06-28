@@ -29,10 +29,9 @@
       }
     ],
     "bulletPoints": [
-      "SmartReads is an engaging platform for discovering, organizing, and sharing your favorite books, complete with AI-generated insights.",
-      "Utilizing OpenAI's GPT Model, our app generates engaging book blurbs and personalized recommendations.",
-      "Built with Next.js and Material-UI, SmartReads is designed to be mobile-friendly and responsive.",
-      "Leveraging the Google Books API, users can search for a wide range of books with ease."
+      "SmartReads is a web app where you can save books, create shelves, share with friends, and get book answers from AI!",
+      "Using OpenAI's GPT model, our app creates fun book blurbs and personalized recommendations.",
+      "Built with Next.js and Material-UI, SmartReads is made to work well on mobile devices and be easy to use."
     ]
   },
   {
@@ -61,9 +60,9 @@
       }
     ],
     "bulletPoints": [
-      "Contribute to a web application that allows users to find, manage, and donate to community food fridges hosted by volunteers across the country",
+      "Contributed to a web application that allows users to find, manage, and donate to community food fridges hosted by volunteers across the country",
       "Developed reusable and responsive UI components from a provided Figma design that are used across the web application",
-      "Utilized project management tools such as Trello and Github to collaborate with other developers and to manage tasks"
+      "Used project management tools such as Trello and Github to collaborate with other developers and to manage tasks"
     ]
   },
   {

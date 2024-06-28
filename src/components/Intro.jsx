@@ -7,8 +7,7 @@ function Intro() {
 
       <p className="description">
         <strong>
-          Building websites that look great and work smoothly, from start to
-          finish.
+          Dedicated to building modern, user-friendly web application.
         </strong>
       </p>
 
